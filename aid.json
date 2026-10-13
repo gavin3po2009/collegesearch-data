@@ -1,0 +1,125 @@
+{
+  "federal": [
+    {
+      "name": "FAFSA (Free Application for Federal Student Aid)",
+      "amount": "The key to almost all need-based aid",
+      "text": "One free form decides your federal grants, work-study and loans, and most states and colleges use it for their own money too. The 2027-28 form (for students starting college in fall 2027) became available by October 1, 2026. The federal cutoff is June 30 at the end of the school year, but state and college deadlines come much earlier, some within weeks. File it as soon as you can.",
+      "url": "https://studentaid.gov/h/apply-for-aid/fafsa"
+    },
+    {
+      "name": "Federal Pell Grant",
+      "amount": "Up to $7,395 a year (2026-27)",
+      "text": "Free money for undergraduates with financial need; it never has to be repaid. The amount depends on your Student Aid Index from the FAFSA, the cost of your college and whether you study full time. There is no separate application: filing the FAFSA is how you apply.",
+      "url": "https://studentaid.gov/understand-aid/types/grants/pell"
+    },
+    {
+      "name": "Federal Supplemental Educational Opportunity Grant (FSEOG)",
+      "amount": "$100 to $4,000 a year",
+      "text": "Extra grant money for students with the greatest need. Each college gets a limited pot and hands it out until it runs dry, which is one more reason to file the FAFSA early. Not every college takes part.",
+      "url": "https://studentaid.gov/understand-aid/types/grants/fseog"
+    },
+    {
+      "name": "Federal Work-Study",
+      "amount": "A part-time job, paid at least minimum wage",
+      "text": "A campus or community job reserved for students with need, with hours built around your classes. You are paid directly and decide how to spend it. Tick the work-study box on the FAFSA to be considered.",
+      "url": "https://studentaid.gov/understand-aid/types/work-study"
+    },
+    {
+      "name": "TEACH Grant",
+      "amount": "Up to $4,000 a year",
+      "text": "For students who plan to teach a high-need subject in a low-income school. You must complete four years of that teaching within eight years of finishing your degree, or the grant turns into a loan with interest charged from the day it was paid. Take it only if you are sure about teaching.",
+      "url": "https://studentaid.gov/understand-aid/types/grants/teach"
+    },
+    {
+      "name": "CSS Profile",
+      "amount": "Needed for many private colleges' own aid",
+      "text": "A second, more detailed aid form run by the College Board. Several hundred colleges, mostly private, require it before they will give their own grants, and those grants are often far larger than any outside scholarship. Check each college's aid page for whether it is required and by when.",
+      "url": "https://cssprofile.collegeboard.org/"
+    }
+  ],
+  "search": [
+    {
+      "name": "CareerOneStop Scholarship Finder",
+      "text": "Run by the U.S. Department of Labor. More than 9,500 scholarships, fellowships and grants, searchable by state, level of study and keyword. No account, no ads.",
+      "url": "https://www.careeronestop.org/toolkit/training/find-scholarships.aspx"
+    },
+    {
+      "name": "BigFuture Scholarship Search",
+      "text": "The College Board's search. Free; uses the same account as the SAT and matches you to scholarships from your profile.",
+      "url": "https://bigfuture.collegeboard.org/pay-for-college/scholarship-search"
+    },
+    {
+      "name": "Fastweb",
+      "text": "One of the oldest matching sites, with a large database. Free, but it needs an account and shows advertising; use a separate email address.",
+      "url": "https://www.fastweb.com/"
+    },
+    {
+      "name": "Scholarships.com",
+      "text": "Large free directory you can browse by state, major and deadline without signing up.",
+      "url": "https://www.scholarships.com/"
+    },
+    {
+      "name": "Federal Student Aid Estimator",
+      "text": "The government's calculator for how much federal aid you are likely to get, before you file the FAFSA.",
+      "url": "https://studentaid.gov/aid-estimator/"
+    },
+    {
+      "name": "How to spot a scholarship scam",
+      "text": "The Department of Education's guide. The short version: you never have to pay to apply for a scholarship or to file the FAFSA, and nobody can guarantee you will win.",
+      "url": "https://studentaid.gov/resources/scams"
+    }
+  ],
+  "states": [
+    { "state": "AL", "agency": "Alabama Commission on Higher Education", "programs": "Alabama Student Assistance Program, Alabama Student Grant Program", "url": "https://www.ache.edu/" },
+    { "state": "AK", "agency": "Alaska Commission on Postsecondary Education", "programs": "Alaska Performance Scholarship, Alaska Education Grant", "url": "https://acpe.alaska.gov/" },
+    { "state": "AZ", "agency": "Arizona Board of Regents", "programs": "Arizona Promise Program", "url": "https://azregents.edu/" },
+    { "state": "AR", "agency": "Arkansas Division of Higher Education", "programs": "Arkansas Academic Challenge Scholarship, Governor's Distinguished Scholarship", "url": "https://sams.adhe.edu/" },
+    { "state": "CA", "agency": "California Student Aid Commission", "programs": "Cal Grant, Middle Class Scholarship, California Dream Act aid", "url": "https://csac.ca.gov/" },
+    { "state": "CO", "agency": "Colorado Department of Higher Education", "programs": "Colorado Student Grant, College Opportunity Fund stipend", "url": "https://cdhe.colorado.gov/" },
+    { "state": "CT", "agency": "Connecticut Office of Higher Education", "programs": "Roberta B. Willis Scholarship", "url": "https://www.ctohe.org/" },
+    { "state": "DE", "agency": "Delaware Higher Education Office", "programs": "SEED Scholarship, Inspire Scholarship, Scholarship Incentive Program", "url": "https://delawarestudentsuccess.org/" },
+    { "state": "DC", "agency": "Office of the State Superintendent of Education", "programs": "DC Tuition Assistance Grant (DC TAG)", "url": "https://osse.dc.gov/dctag" },
+    { "state": "FL", "agency": "Florida Office of Student Financial Assistance", "programs": "Bright Futures Scholarship, Florida Student Assistance Grant", "url": "https://floridastudentfinancialaid.org/" },
+    { "state": "GA", "agency": "Georgia Student Finance Commission", "programs": "HOPE Scholarship, Zell Miller Scholarship, HOPE Grant", "url": "https://gafutures.org/" },
+    { "state": "HI", "agency": "University of Hawaii Financial Aid Services", "programs": "Hawaii Promise Scholarship, Hawaii B Plus Scholarship", "url": "https://hawaii.edu/fas" },
+    { "state": "ID", "agency": "Idaho State Board of Education", "programs": "Idaho Opportunity Scholarship, Idaho LAUNCH", "url": "https://boardofed.idaho.gov/scholarships" },
+    { "state": "IL", "agency": "Illinois Student Assistance Commission", "programs": "Monetary Award Program (MAP) grant", "url": "https://isac.org/" },
+    { "state": "IN", "agency": "Indiana Commission for Higher Education", "programs": "21st Century Scholars, Frank O'Bannon Grant", "url": "https://learnmoreindiana.org/" },
+    { "state": "IA", "agency": "Iowa Department of Education", "programs": "Iowa Tuition Grant, All Iowa Opportunity Scholarship, Last-Dollar Scholarship", "url": "https://educate.iowa.gov/higher-ed/financial-aid" },
+    { "state": "KS", "agency": "Kansas Board of Regents", "programs": "Kansas Comprehensive Grant, Kansas Promise Scholarship", "url": "https://kansasregents.gov/students/student_financial_aid" },
+    { "state": "KY", "agency": "Kentucky Higher Education Assistance Authority", "programs": "KEES (Kentucky Educational Excellence Scholarship), College Access Program grant", "url": "https://www.kheaa.com/" },
+    { "state": "LA", "agency": "Louisiana Office of Student Financial Assistance", "programs": "TOPS (Taylor Opportunity Program for Students), GO Grant", "url": "https://mylosfa.la.gov/" },
+    { "state": "ME", "agency": "Finance Authority of Maine", "programs": "Maine State Grant", "url": "https://www.famemaine.com/" },
+    { "state": "MD", "agency": "Maryland Higher Education Commission", "programs": "Howard P. Rawlings Guaranteed Access Grant and Educational Assistance Grant", "url": "https://mhec.maryland.gov/" },
+    { "state": "MA", "agency": "Massachusetts Office of Student Financial Assistance", "programs": "MASSGrant, John and Abigail Adams Scholarship", "url": "https://www.mass.edu/osfa/home/home.asp" },
+    { "state": "MI", "agency": "MI Student Aid", "programs": "Michigan Achievement Scholarship, Michigan Competitive Scholarship", "url": "https://www.michigan.gov/mistudentaid" },
+    { "state": "MN", "agency": "Minnesota Office of Higher Education", "programs": "Minnesota State Grant, North Star Promise", "url": "https://ohe.mn.gov/" },
+    { "state": "MS", "agency": "Mississippi Office of Student Financial Aid", "programs": "MTAG, MESG, HELP Grant", "url": "https://www.msfinancialaid.org/" },
+    { "state": "MO", "agency": "Missouri Department of Higher Education & Workforce Development", "programs": "A+ Scholarship, Bright Flight, Access Missouri", "url": "https://dhewd.mo.gov/" },
+    { "state": "MT", "agency": "Reach Higher Montana", "programs": "Montana state scholarships and grants", "url": "https://reachhighermontana.org/" },
+    { "state": "NE", "agency": "Nebraska Coordinating Commission for Postsecondary Education", "programs": "Nebraska Opportunity Grant", "url": "https://ccpe.nebraska.gov/" },
+    { "state": "NV", "agency": "Nevada State Treasurer", "programs": "Governor Guinn Millennium Scholarship, Nevada Promise Scholarship", "url": "https://www.nevadatreasurer.gov/" },
+    { "state": "NH", "agency": "New Hampshire Department of Education", "programs": "New Hampshire state scholarship programs", "url": "https://www.education.nh.gov/" },
+    { "state": "NJ", "agency": "Higher Education Student Assistance Authority", "programs": "Tuition Aid Grant (TAG), NJ STARS, Garden State Guarantee", "url": "https://www.hesaa.org/" },
+    { "state": "NM", "agency": "New Mexico Higher Education Department", "programs": "Opportunity Scholarship, Lottery Scholarship", "url": "https://hed.nm.gov/" },
+    { "state": "NY", "agency": "Higher Education Services Corporation", "programs": "Tuition Assistance Program (TAP), Excelsior Scholarship", "url": "https://hesc.ny.gov/" },
+    { "state": "NC", "agency": "College Foundation of North Carolina", "programs": "Next NC Scholarship", "url": "https://www.cfnc.org/" },
+    { "state": "ND", "agency": "North Dakota University System", "programs": "North Dakota Scholarship, North Dakota State Grant", "url": "https://ndus.edu/paying-for-college" },
+    { "state": "OH", "agency": "Ohio Department of Higher Education", "programs": "Ohio College Opportunity Grant, Governor's Merit Scholarship", "url": "https://highered.ohio.gov/" },
+    { "state": "OK", "agency": "Oklahoma State Regents for Higher Education", "programs": "Oklahoma's Promise, Oklahoma Tuition Aid Grant", "url": "https://www.okcollegestart.org/" },
+    { "state": "OR", "agency": "Oregon Office of Student Access and Completion", "programs": "Oregon Opportunity Grant, Oregon Promise", "url": "https://oregonstudentaid.gov/" },
+    { "state": "PA", "agency": "Pennsylvania Higher Education Assistance Agency", "programs": "PA State Grant", "url": "https://www.pheaa.org/" },
+    { "state": "RI", "agency": "Rhode Island Office of the Postsecondary Commissioner", "programs": "Rhode Island Promise, Hope Scholarship", "url": "https://riopc.edu/" },
+    { "state": "SC", "agency": "South Carolina Commission on Higher Education", "programs": "Palmetto Fellows, LIFE Scholarship, HOPE Scholarship", "url": "https://che.sc.gov/" },
+    { "state": "SD", "agency": "South Dakota Board of Regents", "programs": "South Dakota Opportunity Scholarship, Freedom Scholarship", "url": "https://sdbor.edu/" },
+    { "state": "TN", "agency": "Tennessee Student Assistance Corporation", "programs": "HOPE Scholarship, Tennessee Promise, Tennessee Student Assistance Award", "url": "https://www.collegefortn.org/" },
+    { "state": "TX", "agency": "Texas Higher Education Coordinating Board", "programs": "TEXAS Grant, Texas Educational Opportunity Grant, Tuition Equalization Grant", "url": "https://www.highered.texas.gov/" },
+    { "state": "UT", "agency": "Utah System of Higher Education", "programs": "Opportunity Scholarship, Utah Promise Grant", "url": "https://ushe.edu/" },
+    { "state": "VT", "agency": "Vermont Student Assistance Corporation", "programs": "Vermont Grant, VSAC-administered scholarships", "url": "https://www.vsac.org/" },
+    { "state": "VA", "agency": "State Council of Higher Education for Virginia", "programs": "Virginia Tuition Assistance Grant, Virginia Guaranteed Assistance Program", "url": "https://www.schev.edu/" },
+    { "state": "WA", "agency": "Washington Student Achievement Council", "programs": "Washington College Grant, College Bound Scholarship", "url": "https://wsac.wa.gov/" },
+    { "state": "WV", "agency": "College Foundation of West Virginia", "programs": "PROMISE Scholarship, West Virginia Higher Education Grant", "url": "https://www.cfwv.com/" },
+    { "state": "WI", "agency": "Wisconsin Higher Educational Aids Board", "programs": "Wisconsin Grant, Academic Excellence Scholarship", "url": "https://heab.state.wi.us/" },
+    { "state": "WY", "agency": "Wyoming Department of Education", "programs": "Hathaway Scholarship", "url": "https://hathawayscholarship.org/" }
+  ]
+}

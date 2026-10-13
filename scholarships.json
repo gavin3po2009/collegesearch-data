@@ -1,0 +1,1600 @@
+[
+  {
+    "id": "cooke",
+    "name": "Cooke College Scholarship Program",
+    "sponsor": "Jack Kent Cooke Foundation",
+    "amount": "Up to $55,000 a year",
+    "value": 220000,
+    "awards": "",
+    "grades": [
+      "senior"
+    ],
+    "tags": [
+      "need",
+      "merit"
+    ],
+    "need": true,
+    "who": "High school seniors with strong grades and financial need who plan to attend a four-year college. Last-dollar award: it fills the gap left after the college's own aid. Past winners averaged a 3.99 unweighted GPA.",
+    "opens": "Open now",
+    "deadline": "2026-11-11",
+    "confirmed": true,
+    "url": "https://www.jkcf.org/our-scholarships/college-scholarship-program/",
+    "notes": "Applied for through the Common App. One of the largest private scholarships in the country."
+  },
+  {
+    "id": "daniels",
+    "name": "Daniels Scholarship Program",
+    "sponsor": "Daniels Fund",
+    "amount": "Up to full cost at partner schools; up to $25,000 a year elsewhere",
+    "value": 100000,
+    "awards": "",
+    "grades": [
+      "senior"
+    ],
+    "tags": [
+      "need",
+      "leadership"
+    ],
+    "states": [
+      "CO",
+      "NM",
+      "UT",
+      "WY"
+    ],
+    "min_gpa": 3.0,
+    "need": true,
+    "who": "Residents of Colorado, New Mexico, Utah or Wyoming with an unweighted GPA of 3.0 or higher and household adjusted gross income of $100,000 or less. U.S. citizen or permanent resident.",
+    "opens": "Sep 1, 2026",
+    "deadline": "2026-10-15",
+    "confirmed": true,
+    "url": "https://www.danielsfund.org/scholarships/daniels-scholarship-program/overview",
+    "notes": "Closes at 4:00 p.m. Mountain Time. Up to $7,500 a year at non-partner schools inside the four-state region."
+  },
+  {
+    "id": "vfw-vod",
+    "name": "Voice of Democracy",
+    "sponsor": "Veterans of Foreign Wars (VFW)",
+    "amount": "$35,000 national first place",
+    "value": 35000,
+    "awards": "Awards at post, district, state and national level",
+    "grades": [
+      "freshman",
+      "sophomore",
+      "junior",
+      "senior"
+    ],
+    "tags": [
+      "essay",
+      "leadership"
+    ],
+    "who": "Students in grades 9-12. Record a short audio essay on this year's theme, \"What a Veteran Taught Me About America,\" and hand it with the entry form to a participating local VFW post.",
+    "opens": "Open now",
+    "deadline": "2026-10-31",
+    "confirmed": true,
+    "url": "https://www.vfw.org/community/youth-and-education/youth-scholarships",
+    "notes": "Entries go to your local VFW post by midnight, October 31. Smaller prizes at the local and state rounds make this worth entering even if you don't expect to win nationally."
+  },
+  {
+    "id": "regeneron-sts",
+    "name": "Regeneron Science Talent Search",
+    "sponsor": "Society for Science",
+    "amount": "$250,000 top prize",
+    "value": 250000,
+    "awards": "40 finalists share more than $1.8 million; about $3.1 million awarded in all",
+    "grades": [
+      "senior"
+    ],
+    "tags": [
+      "stem",
+      "merit"
+    ],
+    "who": "High school seniors who have completed an original, independent research project and can submit a full research report and application.",
+    "opens": "Jun 1, 2026",
+    "deadline": "2026-11-05",
+    "confirmed": true,
+    "url": "https://www.societyforscience.org/regeneron-sts/",
+    "notes": "Closes at 8 p.m. Eastern. Only realistic if you already have a research project; read the official rules for exact eligibility."
+  },
+  {
+    "id": "elks-mvs",
+    "name": "Elks Most Valuable Student",
+    "sponsor": "Elks National Foundation",
+    "amount": "$4,000 to $30,000 over four years",
+    "value": 30000,
+    "awards": "500 a year (top 20 receive $30,000)",
+    "grades": [
+      "senior"
+    ],
+    "tags": [
+      "merit",
+      "leadership",
+      "need"
+    ],
+    "who": "U.S. citizens who are high school seniors planning a four-year degree. No Elks connection needed. Judged on scholarship, leadership and financial need.",
+    "opens": "Aug 1, 2026",
+    "deadline": "2026-11-12",
+    "confirmed": false,
+    "url": "https://www.elks.org/scholars/scholarships/mvs.cfm",
+    "notes": "The Elks site was down when checked; the date comes from two scholarship directories. Confirm it before relying on it."
+  },
+  {
+    "id": "nhs",
+    "name": "National Honor Society Scholarship",
+    "sponsor": "National Honor Society (NASSP)",
+    "amount": "Up to $25,000",
+    "value": 25000,
+    "awards": "600 students share $2 million",
+    "grades": [
+      "senior"
+    ],
+    "tags": [
+      "merit",
+      "leadership",
+      "service"
+    ],
+    "who": "High school seniors who are active members in good standing of a National Honor Society chapter, with an NHS student account verified by the chapter adviser.",
+    "opens": "Sep 3, 2026",
+    "deadline": "2026-11-20",
+    "confirmed": true,
+    "url": "https://www.nationalhonorsociety.org/the-nhs-scholarship/",
+    "notes": "Closes at 5 p.m. Eastern. Ask your adviser to verify your account early; that step is what holds people up.",
+    "groups": [
+      "nhs"
+    ]
+  },
+  {
+    "id": "ron-brown",
+    "name": "Ron Brown Scholarship",
+    "sponsor": "Ron Brown Scholar Program",
+    "amount": "$40,000 ($10,000 a year)",
+    "value": 40000,
+    "awards": "20 a year",
+    "grades": [
+      "senior"
+    ],
+    "tags": [
+      "merit",
+      "leadership",
+      "service",
+      "need"
+    ],
+    "groups": [
+      "black"
+    ],
+    "need": true,
+    "who": "Black or African American high school seniors who are U.S. citizens or permanent residents, with a strong academic record, leadership, community service and financial need.",
+    "opens": "Open now",
+    "deadline": "2026-12-01",
+    "confirmed": true,
+    "url": "https://ronbrown.org/apply/ron-brown-scholarship/",
+    "notes": "Counselor recommendation and transcript are due December 15. Online only; late applications are not accepted."
+  },
+  {
+    "id": "smart",
+    "name": "SMART Scholarship-for-Service",
+    "sponsor": "U.S. Department of Defense",
+    "amount": "Full tuition plus a $30,000 to $46,000 yearly stipend",
+    "value": 250000,
+    "awards": "",
+    "grades": [
+      "senior",
+      "college"
+    ],
+    "tags": [
+      "stem",
+      "military"
+    ],
+    "min_gpa": 3.0,
+    "who": "Students in an approved technical field (computer science, engineering, math, physical sciences and similar), at least 18, with a 3.0 GPA, able to hold a security clearance. Incoming college freshmen have been eligible since 2023.",
+    "opens": "Aug 1, 2026",
+    "deadline": "2026-12-04",
+    "confirmed": false,
+    "url": "https://www.smartscholarship.org/smart",
+    "notes": "You owe one year of civilian work at a Defense Department lab for each year funded, and it includes summer internships. Deadline is the first Friday of December; directories disagree by a day or two, so check the portal."
+  },
+  {
+    "id": "science-ambassador",
+    "name": "Science Ambassador Scholarship",
+    "sponsor": "Cards Against Humanity",
+    "amount": "$20,000",
+    "value": 20000,
+    "awards": "5 winners",
+    "grades": [
+      "senior",
+      "college"
+    ],
+    "tags": [
+      "stem"
+    ],
+    "groups": [
+      "women"
+    ],
+    "who": "Women and non-binary high school seniors or undergraduates in a STEM major attending college in the U.S. Citizenship is not required.",
+    "opens": "Open now",
+    "deadline": "2026-12-14",
+    "confirmed": true,
+    "url": "https://www.scienceambassadorscholarship.org/",
+    "notes": "The application is a public YouTube video, three minutes or less, teaching any STEM topic. No essay, no transcript."
+  },
+  {
+    "id": "burger-king",
+    "name": "Burger King Scholars",
+    "sponsor": "Burger King Foundation",
+    "amount": "$1,000 to $60,000",
+    "value": 60000,
+    "awards": "More than 4,000 students in 2025",
+    "grades": [
+      "senior"
+    ],
+    "tags": [
+      "merit",
+      "service",
+      "need"
+    ],
+    "min_gpa": 2.5,
+    "who": "High school seniors in the U.S., Puerto Rico or Canada planning two- or four-year college or vocational school. Considers GPA, work experience, activities, community service and need.",
+    "opens": "Oct 15, 2026",
+    "deadline": "2026-12-15",
+    "confirmed": false,
+    "url": "https://burgerking.scholarsapply.org/",
+    "notes": "Closes early once 30,000 applications arrive, so apply the week it opens. Most awards are $1,000, and thousands are given. Dates and the 2.5 GPA come from directories, not the sponsor's page."
+  },
+  {
+    "id": "equitable",
+    "name": "Equitable Excellence Scholarship",
+    "sponsor": "Equitable Foundation",
+    "amount": "$20,000 ($5,000 a year)",
+    "value": 20000,
+    "awards": "100 a year",
+    "grades": [
+      "senior"
+    ],
+    "tags": [
+      "leadership",
+      "service"
+    ],
+    "min_gpa": 2.5,
+    "who": "High school seniors in the 50 states, D.C. or Puerto Rico with a 2.5 GPA or higher who show drive and a record of giving back to their community.",
+    "opens": "Sep 1, 2026",
+    "deadline": "2026-12-18",
+    "confirmed": false,
+    "url": "https://scholarshipamerica.org/scholarship/equitableexcellence/",
+    "notes": "Date is from scholarship directories and matches last year's (December 18, 2025). Run by Scholarship America."
+  },
+  {
+    "id": "ge-reagan",
+    "name": "GE-Reagan Foundation Scholarship",
+    "sponsor": "Ronald Reagan Presidential Foundation",
+    "amount": "Up to $40,000 ($10,000 a year)",
+    "value": 40000,
+    "awards": "",
+    "grades": [
+      "senior"
+    ],
+    "tags": [
+      "leadership",
+      "service",
+      "merit"
+    ],
+    "min_gpa": 3.0,
+    "who": "U.S. citizens who are high school seniors with a 3.0 GPA or higher, planning full-time study at a four-year college. Looks for leadership, drive, integrity and citizenship.",
+    "opens": "Mid-October (Oct 13 last cycle)",
+    "deadline": "2027-01-05",
+    "confirmed": false,
+    "url": "https://www.reaganfoundation.org/education/scholarship-programs/ge-reagan-foundation-scholarship-program/",
+    "notes": "Date is last cycle's (January 5, 2026, noon Central) moved forward a year; the new cycle wasn't posted when checked."
+  },
+  {
+    "id": "taco-bell",
+    "name": "Live Más Scholarship",
+    "sponsor": "Taco Bell Foundation",
+    "amount": "$5,000 to $25,000",
+    "value": 25000,
+    "awards": "Up to $14.5 million in total last cycle",
+    "grades": [
+      "sophomore",
+      "junior",
+      "senior",
+      "college"
+    ],
+    "tags": [
+      "arts",
+      "leadership",
+      "service"
+    ],
+    "who": "Ages 16 to 26, legal U.S. residents, heading to or enrolled in a two-year, four-year, vocational or trade program. No GPA or test score requirements; it's about your passion and the impact you want to make.",
+    "opens": "Fall 2026",
+    "deadline": "2027-01-06",
+    "confirmed": false,
+    "url": "https://www.tacobellfoundation.org/live-mas-scholarship/",
+    "notes": "The sponsor says 2027 applications open this fall; the date shown is last cycle's (October 14, 2025 to January 6, 2026) moved forward."
+  },
+  {
+    "id": "dell",
+    "name": "Dell Scholars",
+    "sponsor": "Michael & Susan Dell Foundation",
+    "amount": "$20,000 plus a laptop and book credits",
+    "value": 20000,
+    "awards": "500 a year",
+    "grades": [
+      "senior"
+    ],
+    "tags": [
+      "need"
+    ],
+    "states": [
+      "TX"
+    ],
+    "min_gpa": 2.4,
+    "need": true,
+    "who": "Seniors graduating from a Texas high school who took part in an approved college readiness program in grades 11 and 12, are Pell Grant eligible, have at least a 2.4 GPA and plan to attend a four-year public college in Texas.",
+    "opens": "Oct 1, 2026",
+    "deadline": "2027-01-12",
+    "confirmed": true,
+    "url": "https://www.dellscholars.org/scholarship/",
+    "notes": "This used to be a national program; it is now limited to Texas students attending Texas public universities."
+  },
+  {
+    "id": "jackie-robinson",
+    "name": "Jackie Robinson Foundation Scholarship",
+    "sponsor": "Jackie Robinson Foundation",
+    "amount": "Up to $35,000 over four years",
+    "value": 35000,
+    "awards": "",
+    "grades": [
+      "senior"
+    ],
+    "tags": [
+      "leadership",
+      "service",
+      "need"
+    ],
+    "need": true,
+    "who": "U.S. citizens graduating from high school with financial need, academic excellence, leadership potential and a dedication to community service, planning to attend an approved four-year college.",
+    "opens": "Sep 1, 2026",
+    "deadline": "2027-01-14",
+    "confirmed": true,
+    "url": "https://jackierobinson.org/apply/",
+    "notes": "Closes at 5:00 p.m. Eastern. Past cycles also required the CSS Profile and a recommendation letter by the same date."
+  },
+  {
+    "id": "apia",
+    "name": "APIA Scholarship",
+    "sponsor": "APIA Scholars",
+    "amount": "$2,500 to $20,000",
+    "value": 20000,
+    "awards": "",
+    "grades": [
+      "senior",
+      "college"
+    ],
+    "tags": [
+      "need"
+    ],
+    "need": true,
+    "who": "Undergraduates with high financial need who are U.S. citizens, nationals or permanent residents (or citizens of the Marshall Islands, Micronesia or Palau), enrolled or enrolling in a U.S. accredited college.",
+    "opens": "Nov 15, 2026",
+    "deadline": "2027-01-15",
+    "confirmed": true,
+    "url": "https://apiascholars.org/scholarship/apia-scholarship/",
+    "notes": "APIA Scholars serves Asian American, Native Hawaiian and Pacific Islander students. The page checked did not spell out a heritage requirement, so read the eligibility section before applying."
+  },
+  {
+    "id": "army-rotc",
+    "name": "Army ROTC High School Scholarship",
+    "sponsor": "U.S. Army",
+    "amount": "Full tuition and fees (or room and board), $420 a month, $1,200 a year for books",
+    "value": 180000,
+    "awards": "",
+    "grades": [
+      "senior"
+    ],
+    "tags": [
+      "military",
+      "leadership"
+    ],
+    "min_gpa": 2.5,
+    "who": "U.S. citizens aged 17 to under 31 at commissioning, with an unweighted high school GPA of at least 2.50 and an SAT or ACT score on file.",
+    "opens": "Jun 14, 2026",
+    "deadline": "2027-01-18",
+    "confirmed": true,
+    "url": "https://www.goarmy.com/careers-and-jobs/find-your-path/army-officers/rotc/scholarships",
+    "notes": "Three selection rounds: October 12, 2026 (passed), January 18, 2027 and March 8, 2027. Earlier rounds have more money. Comes with an eight-year service commitment (active duty, Reserve or National Guard)."
+  },
+  {
+    "id": "hsf",
+    "name": "HSF Scholar Program",
+    "sponsor": "Hispanic Scholarship Fund",
+    "amount": "$500 to $5,000",
+    "value": 5000,
+    "awards": "10,000 HSF Scholars chosen each year",
+    "grades": [
+      "senior",
+      "college"
+    ],
+    "tags": [
+      "merit",
+      "need"
+    ],
+    "groups": [
+      "hispanic"
+    ],
+    "min_gpa": 3.0,
+    "who": "Students of Hispanic heritage who are U.S. citizens, permanent residents or DACA recipients, planning full-time study at a four-year college. Minimum 3.0 GPA for high school students (2.5 for college students). FAFSA required.",
+    "opens": "Early January",
+    "deadline": "2027-02-15",
+    "confirmed": false,
+    "url": "https://www.hsf.net/scholarship",
+    "notes": "Date is last cycle's (January 5 to February 15, 2026) moved forward a year. Being named an HSF Scholar also opens mentoring and career programs, even without a cash award."
+  },
+  {
+    "id": "dream-us",
+    "name": "TheDream.US National Scholarship",
+    "sponsor": "TheDream.US",
+    "amount": "Up to $33,000 for tuition plus $6,000 for books and travel",
+    "value": 39000,
+    "awards": "",
+    "grades": [
+      "senior",
+      "college"
+    ],
+    "tags": [
+      "need"
+    ],
+    "groups": [
+      "undocumented"
+    ],
+    "min_gpa": 2.5,
+    "need": true,
+    "who": "Undocumented students (with or without DACA or TPS) who came to the U.S. before November 1, 2020 and before age 16, with a 2.5 GPA, significant unmet need and no Pell Grant eligibility.",
+    "opens": "Nov 1, 2026",
+    "deadline": "2027-02-28",
+    "confirmed": false,
+    "url": "https://www.thedream.us/scholarships/national-scholarship/",
+    "notes": "The sponsor confirms the next round opens November 1, 2026; the closing date shown is last round's (February 28, 2026) moved forward. For use at partner colleges."
+  },
+  {
+    "id": "swe",
+    "name": "SWE Scholarships",
+    "sponsor": "Society of Women Engineers",
+    "amount": "Varies; nearly $1.8 million awarded in 2026",
+    "value": 10000,
+    "awards": "Hundreds, from one application",
+    "grades": [
+      "senior",
+      "college"
+    ],
+    "tags": [
+      "stem"
+    ],
+    "groups": [
+      "women"
+    ],
+    "who": "Students who identify as women studying engineering, engineering technology or computer science. Incoming first-year students, including high school seniors, use the Emerging First Year application.",
+    "opens": "Feb 8, 2027",
+    "deadline": "2027-03-31",
+    "confirmed": true,
+    "url": "https://swe.org/scholarships/",
+    "notes": "One application is matched against every SWE scholarship you qualify for. Current college students apply earlier: December 1, 2026 to February 1, 2027."
+  },
+  {
+    "id": "barron",
+    "name": "Gloria Barron Prize for Young Heroes",
+    "sponsor": "Barron Prize",
+    "amount": "$10,000",
+    "value": 10000,
+    "awards": "25 winners",
+    "grades": [
+      "freshman",
+      "sophomore",
+      "junior",
+      "senior"
+    ],
+    "tags": [
+      "service",
+      "leadership"
+    ],
+    "who": "Young people aged 8 to 18 living in the U.S. or Canada who have led a significant service project helping people or the environment.",
+    "opens": "Early 2027",
+    "deadline": "2027-04-15",
+    "confirmed": false,
+    "url": "https://barronprize.org/apply/",
+    "notes": "Two steps last cycle: a pre-application by March 15 and the full application by April 15. Dates shown are 2026's moved forward a year."
+  },
+  {
+    "id": "aicf",
+    "name": "American Indian College Fund Scholarships",
+    "sponsor": "American Indian College Fund",
+    "amount": "Averages $2,000 to $3,000",
+    "value": 3000,
+    "awards": "Thousands each year, from one application",
+    "grades": [
+      "senior",
+      "college"
+    ],
+    "tags": [
+      "need",
+      "merit"
+    ],
+    "groups": [
+      "native"
+    ],
+    "who": "Native American and Alaska Native students (enrolled tribal members or descendants) attending a tribal college or other accredited college.",
+    "opens": "Feb 1, 2027",
+    "deadline": "2027-05-31",
+    "confirmed": true,
+    "url": "https://collegefund.org/students/scholarships/",
+    "notes": "The application opens February 1 every year, and May 31 is the priority date. One application covers all of the Fund's scholarships."
+  },
+  {
+    "id": "davidson",
+    "name": "Davidson Fellows Scholarship",
+    "sponsor": "Davidson Institute",
+    "amount": "$25,000, $50,000 or $100,000",
+    "value": 100000,
+    "awards": "",
+    "grades": [
+      "freshman",
+      "sophomore",
+      "junior",
+      "senior"
+    ],
+    "tags": [
+      "stem",
+      "music",
+      "arts",
+      "merit"
+    ],
+    "who": "Students 18 or younger, U.S. citizens or permanent residents, who have completed a significant piece of work in science, technology, engineering, mathematics, literature, music, philosophy or \"outside the box.\"",
+    "opens": "Fall 2026",
+    "deadline": null,
+    "confirmed": false,
+    "url": "https://www.davidsongifted.org/gifted-programs/fellows-scholarship/",
+    "notes": "The 2027 application opens this fall; the closing date wasn't posted when checked (past cycles closed in mid-February). The music category takes a performance or composition portfolio."
+  },
+  {
+    "id": "amazon-future-engineer",
+    "name": "Amazon Future Engineer Scholarship",
+    "sponsor": "Amazon",
+    "amount": "Up to $10,000 a year plus a paid Amazon internship",
+    "value": 40000,
+    "awards": "",
+    "grades": [
+      "senior"
+    ],
+    "tags": [
+      "stem",
+      "need"
+    ],
+    "min_gpa": 2.3,
+    "need": true,
+    "who": "High school seniors planning a bachelor's degree in computer science or a related field, with financial need and a 2.3 GPA or higher, who have taken a computer science course (or take Amazon's assessment). U.S. citizen, permanent resident or authorized to work.",
+    "opens": "Not yet posted",
+    "deadline": null,
+    "confirmed": false,
+    "url": "https://www.amazonfutureengineer.com/scholarships",
+    "notes": "The new cycle's dates weren't posted when checked; past cycles closed in mid-winter. Check back in November."
+  },
+  {
+    "id": "evans",
+    "name": "Evans Scholarship",
+    "sponsor": "Western Golf Association",
+    "amount": "Full tuition and housing",
+    "value": 125000,
+    "awards": "About 1,260 scholars at 27 universities",
+    "grades": [
+      "senior",
+      "college"
+    ],
+    "tags": [
+      "need",
+      "work"
+    ],
+    "need": true,
+    "who": "Golf caddies with a strong caddie record, excellent grades, demonstrated financial need and outstanding character.",
+    "opens": "Start of senior year",
+    "deadline": null,
+    "confirmed": false,
+    "url": "https://wgaesf.org/scholarships/",
+    "notes": "Only for students who have worked as caddies. The site didn't list this year's closing date when checked; past deadlines fell in late October, so look now.",
+    "groups": [
+      "caddie"
+    ]
+  },
+  {
+    "id": "hagan",
+    "name": "Hagan Scholarship",
+    "sponsor": "Hagan Scholarship Foundation",
+    "amount": "Up to $7,500 a semester for 8 semesters, plus $1,000 for college supplies",
+    "value": 61000,
+    "awards": "",
+    "grades": [
+      "senior"
+    ],
+    "tags": [
+      "need",
+      "merit",
+      "work"
+    ],
+    "min_gpa": 3.5,
+    "need": true,
+    "who": "High school seniors with a 3.50 GPA or higher, household income under the foundation's limit, and at least 240 hours of paid work in the past year. Historically aimed at students from rural counties.",
+    "opens": "Not posted",
+    "deadline": null,
+    "confirmed": false,
+    "url": "https://haganscholarships.org/",
+    "notes": "The site's pages gave two different income limits ($100,000 and $125,000) and no closing date when checked. Read the eligibility page; past cycles closed around December 1."
+  },
+  {
+    "id": "afrotc",
+    "name": "Air Force ROTC High School Scholarship",
+    "sponsor": "U.S. Air Force and Space Force",
+    "amount": "Tuition scholarships of several types, plus a monthly stipend",
+    "value": 150000,
+    "awards": "",
+    "grades": [
+      "senior"
+    ],
+    "tags": [
+      "military",
+      "stem",
+      "leadership"
+    ],
+    "who": "U.S. citizens who are high school seniors willing to serve as Air Force or Space Force officers after graduating. Technical majors are favored.",
+    "opens": "Summer before senior year",
+    "deadline": null,
+    "confirmed": false,
+    "url": "https://www.afrotc.com/scholarships/high-school/",
+    "notes": "The official page blocked automated checking, so no dates are listed here. Past application windows closed around the turn of the year; look it up now if you're interested."
+  },
+  {
+    "id": "nrotc",
+    "name": "Navy ROTC National Scholarship",
+    "sponsor": "U.S. Navy and Marine Corps",
+    "amount": "Full tuition and fees, book stipend, monthly allowance",
+    "value": 180000,
+    "awards": "",
+    "grades": [
+      "senior"
+    ],
+    "tags": [
+      "military",
+      "stem",
+      "leadership"
+    ],
+    "who": "U.S. citizens who are high school seniors willing to serve as Navy or Marine Corps officers after graduating.",
+    "opens": "Spring of junior year",
+    "deadline": null,
+    "confirmed": false,
+    "url": "https://www.netc.navy.mil/NSTC/NROTC/",
+    "notes": "The official page blocked automated checking, so no dates are listed here. Past deadlines fell at the end of January."
+  },
+  {
+    "id": "legion-oratorical",
+    "name": "American Legion Oratorical Contest",
+    "sponsor": "The American Legion",
+    "amount": "More than $203,500 in scholarships nationally in 2026",
+    "value": 25000,
+    "awards": "Awards at post, state and national level",
+    "grades": [
+      "freshman",
+      "sophomore",
+      "junior",
+      "senior"
+    ],
+    "tags": [
+      "essay",
+      "leadership"
+    ],
+    "who": "High school students who prepare and deliver a speech about the U.S. Constitution, starting at a local American Legion post.",
+    "opens": "Local contests run in winter",
+    "deadline": null,
+    "confirmed": false,
+    "url": "https://www.legion.org/get-involved/youth-programs/oratorical-contest",
+    "notes": "State winners were named in April and the national final was in May last year. Contact your local post or state Legion office now; local dates vary."
+  },
+  {
+    "id": "scholastic",
+    "name": "Scholastic Art & Writing Awards",
+    "sponsor": "Alliance for Young Artists & Writers",
+    "amount": "Varies; national scholarships for top senior portfolios",
+    "value": 12500,
+    "awards": "More than twenty categories",
+    "grades": [
+      "freshman",
+      "sophomore",
+      "junior",
+      "senior"
+    ],
+    "tags": [
+      "arts",
+      "essay"
+    ],
+    "who": "Teen artists and writers. Seniors can submit a portfolio, which is what the largest scholarships are tied to.",
+    "opens": "Open now",
+    "deadline": null,
+    "confirmed": true,
+    "url": "https://www.artandwriting.org/awards/how-to-enter/",
+    "notes": "Deadlines are set by region and start in December; find yours on the site. Entry costs $15 per work or $40 per portfolio, and the fee is waived for anyone who says they can't afford it."
+  },
+  {
+    "id": "uncf",
+    "name": "UNCF Scholarships",
+    "sponsor": "UNCF",
+    "amount": "Varies by program",
+    "value": 5000,
+    "awards": "Dozens of programs through one portal",
+    "grades": [
+      "senior",
+      "college"
+    ],
+    "tags": [
+      "need",
+      "merit",
+      "stem"
+    ],
+    "who": "Each program sets its own rules. Many support Black students and students at historically Black colleges, and several are for STEM majors.",
+    "opens": "Rolling",
+    "deadline": null,
+    "confirmed": true,
+    "url": "https://uncf.org/scholarships",
+    "notes": "Create one profile at opportunities.uncf.org and it shows the programs you qualify for. Several close in October, so check now."
+  },
+  {
+    "id": "ayn-rand",
+    "name": "Ayn Rand Essay Contests",
+    "sponsor": "Ayn Rand Institute",
+    "amount": "Up to $25,000",
+    "value": 25000,
+    "awards": "Multiple prizes per contest",
+    "grades": [
+      "freshman",
+      "sophomore",
+      "junior",
+      "senior",
+      "college"
+    ],
+    "tags": [
+      "essay"
+    ],
+    "who": "Students write an essay on Anthem or The Fountainhead (ages 13 and up) or Atlas Shrugged (high school, college and graduate students). International students may enter.",
+    "opens": "To be announced",
+    "deadline": null,
+    "confirmed": true,
+    "url": "https://aynrand.org/students/essay-contests/",
+    "notes": "The next deadline was listed as \"TBD\" when checked."
+  },
+  {
+    "id": "jfk-essay",
+    "name": "Profile in Courage Essay Contest",
+    "sponsor": "John F. Kennedy Library Foundation",
+    "amount": "$10,000 first prize",
+    "value": 10000,
+    "awards": "",
+    "grades": [
+      "freshman",
+      "sophomore",
+      "junior",
+      "senior"
+    ],
+    "tags": [
+      "essay"
+    ],
+    "who": "U.S. high school students in grades 9-12, writing about an act of political courage by an elected official.",
+    "opens": "Fall",
+    "deadline": null,
+    "confirmed": false,
+    "url": "https://www.jfklibrary.org/learn/education/profile-in-courage-essay-contest",
+    "notes": "The official page blocked automated checking. Past contests closed in mid-January; confirm the prize and date on the site."
+  },
+  {
+    "id": "stamps",
+    "name": "Stamps Scholarship",
+    "sponsor": "Stamps Scholars Program",
+    "amount": "Up to full cost of attendance, plus funds for study abroad and research",
+    "value": 200000,
+    "awards": "Given through partner universities",
+    "grades": [
+      "senior"
+    ],
+    "tags": [
+      "merit",
+      "leadership"
+    ],
+    "who": "Top applicants to the program's partner universities. You don't apply to Stamps directly; each partner picks its own scholars from its applicant pool.",
+    "opens": "With your college application",
+    "deadline": null,
+    "confirmed": false,
+    "url": "https://www.stampsscholars.org/",
+    "notes": "Check each partner university's own page: many require applying by an early scholarship deadline (often November 1 or December 1)."
+  },
+  {
+    "id": "coca-cola",
+    "name": "Coca-Cola Scholars Program",
+    "sponsor": "Coca-Cola Scholars Foundation",
+    "amount": "$20,000",
+    "value": 20000,
+    "awards": "150 a year",
+    "grades": [
+      "senior"
+    ],
+    "tags": [
+      "leadership",
+      "service",
+      "merit"
+    ],
+    "min_gpa": 3.0,
+    "who": "High school seniors with a 3.0 GPA or higher who are U.S. citizens, nationals, permanent residents or otherwise eligible for federal aid. Based on leadership, academics and service, not financial need.",
+    "opens": "Aug 3, 2026",
+    "deadline": "2026-09-30",
+    "confirmed": true,
+    "url": "https://www.coca-colascholarsfoundation.org/apply/",
+    "notes": "First round needs no essays, transcript or recommendations. About 1% of applicants advance to semifinalist."
+  },
+  {
+    "id": "gates",
+    "name": "The Gates Scholarship",
+    "sponsor": "Bill & Melinda Gates Foundation",
+    "amount": "Full cost of attendance not covered by other aid",
+    "value": 300000,
+    "awards": "",
+    "grades": [
+      "senior"
+    ],
+    "tags": [
+      "need",
+      "merit",
+      "leadership"
+    ],
+    "min_gpa": 3.3,
+    "need": true,
+    "who": "Pell-eligible high school seniors with a weighted GPA of 3.3 or higher who are U.S. citizens or permanent residents, planning a four-year degree at a nonprofit college.",
+    "opens": "Jul 15, 2026",
+    "deadline": "2026-09-15",
+    "confirmed": true,
+    "url": "https://www.thegatesscholarship.org/scholarship",
+    "notes": "Opens in mid-July, before senior year starts, which is why many students miss it."
+  },
+  {
+    "id": "questbridge",
+    "name": "QuestBridge National College Match",
+    "sponsor": "QuestBridge",
+    "amount": "Full four-year scholarship (worth over $360,000)",
+    "value": 360000,
+    "awards": "55 partner colleges",
+    "grades": [
+      "senior"
+    ],
+    "tags": [
+      "need",
+      "merit"
+    ],
+    "need": true,
+    "who": "High-achieving high school seniors from low-income families, typically household income under $65,000 a year for a family of four with minimal assets.",
+    "opens": "Late summer",
+    "deadline": "2026-10-01",
+    "confirmed": true,
+    "url": "https://www.questbridge.org/apply-to-college/programs/national-college-match",
+    "notes": "Matches cover tuition, housing and food with no loans and no parent contribution. Juniors should look at QuestBridge's College Prep Scholars program in the spring."
+  },
+  {
+    "id": "youngarts",
+    "name": "YoungArts National Arts Competition",
+    "sponsor": "YoungArts",
+    "amount": "$250 to $10,000",
+    "value": 10000,
+    "awards": "",
+    "grades": [
+      "sophomore",
+      "junior",
+      "senior"
+    ],
+    "tags": [
+      "arts",
+      "music"
+    ],
+    "who": "Artists aged 15-18 or in grades 10-12 in classical music, jazz, voice, dance, design, film, photography, theater, visual arts or writing. U.S. citizens, permanent residents or others able to receive U.S. income.",
+    "opens": "Summer",
+    "deadline": "2026-10-06",
+    "confirmed": false,
+    "url": "https://youngarts.org/apply/",
+    "notes": "This year's competition has closed; the next application opens in summer 2027. Winners become eligible for nomination as U.S. Presidential Scholars in the Arts."
+  },
+  {
+    "id": "cameron",
+    "name": "Cameron Impact Scholarship",
+    "sponsor": "Bryan Cameron Education Foundation",
+    "amount": "Full tuition, fees and books for four years",
+    "value": 250000,
+    "awards": "10 to 15 a year",
+    "grades": [
+      "junior"
+    ],
+    "tags": [
+      "merit",
+      "leadership",
+      "service"
+    ],
+    "min_gpa": 3.7,
+    "who": "U.S. citizens with an unweighted GPA of 3.7 or higher, strong leadership and community service. The application is now filled in during junior year.",
+    "opens": "Early in the calendar year",
+    "deadline": "2026-05-01",
+    "confirmed": false,
+    "url": "https://www.bryancameroneducationfoundation.org/",
+    "notes": "The class of 2027 round closed May 1, 2026 (or earlier, once 3,000 eligible applications arrived). The foundation's site blocked automated checking; details are from a high school counseling page."
+  },
+  {
+    "id": "horatio-alger",
+    "name": "Horatio Alger National Scholarship",
+    "sponsor": "Horatio Alger Association",
+    "amount": "$25,000",
+    "value": 25000,
+    "awards": "105 a year",
+    "grades": [
+      "junior"
+    ],
+    "tags": [
+      "need"
+    ],
+    "min_gpa": 2.0,
+    "need": true,
+    "who": "High school juniors who are U.S. citizens with a 2.0 GPA or higher and family adjusted gross income of $100,000 or less, who have overcome significant adversity.",
+    "opens": "Not posted",
+    "deadline": null,
+    "confirmed": true,
+    "url": "https://horatioalger.org/scholarships-and-services/undergraduate-scholarships/",
+    "notes": "The site lists this award for juniors and didn't show dates when checked. It also lists scholarships for seniors tied to specific states and universities (Montana, Arizona State, Long Island University and others)."
+  },
+  {
+    "id": "coolidge",
+    "name": "Coolidge Scholarship",
+    "sponsor": "Calvin Coolidge Presidential Foundation",
+    "amount": "Full ride: tuition, room, board and expenses for four years",
+    "value": 300000,
+    "awards": "A handful each year",
+    "grades": [
+      "junior"
+    ],
+    "tags": [
+      "merit",
+      "essay"
+    ],
+    "who": "High school juniors who are U.S. citizens or permanent residents. Need-blind; academic excellence is the main criterion.",
+    "opens": "Fall of junior year",
+    "deadline": "2026-12-01",
+    "confirmed": false,
+    "url": "https://coolidgescholars.org/",
+    "notes": "For students starting college in fall 2028. Essays draw on The Autobiography of Calvin Coolidge, so allow several weeks. Date is from scholarship directories."
+  },
+  {
+    "id": "national-merit",
+    "name": "National Merit Scholarship Program",
+    "sponsor": "National Merit Scholarship Corporation",
+    "amount": "About 6,700 scholarships worth roughly $24 million",
+    "value": 2500,
+    "awards": "About 16,000 semifinalists; roughly half of finalists win",
+    "grades": [
+      "junior"
+    ],
+    "tags": [
+      "merit"
+    ],
+    "who": "You enter by taking the PSAT/NMSQT in October of junior year. Semifinalists are named the following September by state cutoff score.",
+    "opens": "PSAT/NMSQT in October of 11th grade",
+    "deadline": null,
+    "confirmed": false,
+    "url": "https://www.nationalmerit.org/",
+    "notes": "Seniors: if you were named a Semifinalist in September 2026, the finalist application was due October 7 and confirming SAT or ACT scores must reach NMSC by December 31, 2026. Many colleges give their own large awards to finalists, often worth far more than the national one."
+  },
+  {
+    "id": "posse",
+    "name": "Posse Scholarship",
+    "sponsor": "The Posse Foundation",
+    "amount": "Full tuition at a partner college",
+    "value": 200000,
+    "awards": "More than 20 recruitment cities",
+    "grades": [
+      "junior"
+    ],
+    "tags": [
+      "leadership",
+      "merit"
+    ],
+    "who": "Students with leadership and academic potential, nominated by their high school or a community organization. Not based on need or background.",
+    "opens": "Nominations open in spring of junior year",
+    "deadline": null,
+    "confirmed": true,
+    "url": "https://www.possefoundation.org/recruiting-students/the-nomination-process",
+    "notes": "You can't apply on your own: ask your counselor to nominate you in the spring or summer before senior year. Deadlines vary by city."
+  },
+  {
+    "id": "chick-fil-a",
+    "name": "Chick-fil-A Community Scholars",
+    "sponsor": "Chick-fil-A",
+    "amount": "$25,000",
+    "value": 25000,
+    "awards": "13 a year",
+    "grades": [
+      "senior",
+      "college"
+    ],
+    "tags": [
+      "service",
+      "leadership",
+      "need"
+    ],
+    "who": "Students chosen for academic success, community service and financial need who are leaders in their communities. You do not need to work at Chick-fil-A.",
+    "opens": "Open now",
+    "deadline": "2026-11-03",
+    "confirmed": true,
+    "url": "https://www.chick-fil-a.com/community-scholars",
+    "notes": "Separate from the smaller scholarships Chick-fil-A gives its own restaurant team members."
+  },
+  {
+    "id": "ncwit",
+    "name": "Award for Aspirations in Computing",
+    "sponsor": "National Center for Women & Information Technology (NCWIT)",
+    "amount": "Prizes, plus scholarships open only to award recipients",
+    "value": 3000,
+    "awards": "National and regional winners",
+    "grades": [
+      "freshman",
+      "sophomore",
+      "junior",
+      "senior"
+    ],
+    "tags": [
+      "stem"
+    ],
+    "groups": [
+      "women"
+    ],
+    "who": "High school students in grades 9-12 who are women, genderqueer or non-binary and are active in computing, attending school in the U.S., Puerto Rico, Guam, the U.S. Virgin Islands or a U.S. military base overseas.",
+    "opens": "Sep 1, 2026",
+    "deadline": "2026-10-27",
+    "confirmed": true,
+    "url": "https://www.aspirations.org/award-programs/aic-high-school-award",
+    "notes": "Closes at 10:00 p.m. Eastern. The prize list on the site is an image and could not be read, so check it there. Recipients join a community that many college scholarships recruit from."
+  },
+  {
+    "id": "hhf-youth",
+    "name": "Hispanic Heritage Youth Awards",
+    "sponsor": "Hispanic Heritage Foundation",
+    "amount": "Gold, silver and bronze grants (amounts not posted)",
+    "value": 4000,
+    "awards": "By region and category",
+    "grades": [
+      "senior"
+    ],
+    "tags": [
+      "leadership",
+      "service",
+      "stem"
+    ],
+    "groups": [
+      "hispanic"
+    ],
+    "min_gpa": 3.0,
+    "who": "High school seniors graduating in spring 2027 with an unweighted GPA of 3.0 or higher. Categories: community service, engineering, green, technology, and journalism and media.",
+    "opens": "Open now",
+    "deadline": "2026-11-01",
+    "confirmed": false,
+    "url": "https://hispanicheritage.org/programs/leadership/youth-awards/",
+    "notes": "The page showed two different dates (November 1, 2026 and November 2, 2025), so confirm. It did not spell out a heritage requirement; the program honors Latino students."
+  },
+  {
+    "id": "mike-rowe",
+    "name": "Work Ethic Scholarship",
+    "sponsor": "mikeroweWORKS Foundation",
+    "amount": "$500 to $34,000 (average $9,100)",
+    "value": 34000,
+    "awards": "About $3 million in a round",
+    "grades": [
+      "senior",
+      "college"
+    ],
+    "tags": [
+      "work"
+    ],
+    "who": "U.S. citizens who are high school seniors or graduates enrolling in a trade program of two years or less: construction, welding, HVAC, transportation, technology and others. Four-year degrees do not qualify.",
+    "opens": "Open now",
+    "deadline": "2026-10-31",
+    "confirmed": false,
+    "url": "https://www.mikeroweworks.org/scholarship/",
+    "notes": "Needs a signed S.W.E.A.T. Pledge with four short answers, a video, two references, a transcript and a tuition bill. The page gave October 31 without a year."
+  },
+  {
+    "id": "robertson",
+    "name": "Robertson Scholars Leadership Program",
+    "sponsor": "Robertson Scholars (Duke and UNC-Chapel Hill)",
+    "amount": "Full four-year scholarship at Duke or UNC-Chapel Hill",
+    "value": 320000,
+    "grades": [
+      "senior"
+    ],
+    "tags": [
+      "merit",
+      "leadership"
+    ],
+    "who": "High school seniors applying to Duke University or the University of North Carolina at Chapel Hill. It has its own application, separate from the universities'.",
+    "opens": "Aug 15, 2026",
+    "deadline": "2026-11-15",
+    "confirmed": true,
+    "url": "https://robertsonscholars.org/apply/",
+    "notes": "The early window closed October 15, 2026; November 15 is the date for everyone else. The page checked did not list what the award covers; it has historically paid tuition, housing, food and summer programs.",
+    "awards": ""
+  },
+  {
+    "id": "greenhouse",
+    "name": "Greenhouse Scholars",
+    "sponsor": "Greenhouse Scholars",
+    "amount": "Up to $5,000 a year, with mentoring and internship support",
+    "value": 20000,
+    "grades": [
+      "senior"
+    ],
+    "tags": [
+      "need",
+      "leadership"
+    ],
+    "states": [
+      "CO",
+      "GA",
+      "IL",
+      "NY",
+      "NC",
+      "UT",
+      "CA"
+    ],
+    "min_gpa": 3.5,
+    "need": true,
+    "who": "Graduating high school seniors with an unweighted GPA of 3.5 or higher and household income no greater than $80,000, living in Colorado, Georgia, Illinois, New York, North Carolina, Utah or parts of California.",
+    "opens": "Sep 7, 2026 (round 2)",
+    "deadline": "2026-12-01",
+    "confirmed": true,
+    "url": "https://greenhouse-community.org/apply/",
+    "notes": "In California only Los Angeles, Riverside and Orange counties qualify.",
+    "awards": ""
+  },
+  {
+    "id": "cooke-transfer",
+    "name": "Cooke Undergraduate Transfer Scholarship",
+    "sponsor": "Jack Kent Cooke Foundation",
+    "amount": "Up to $55,000 a year for two to three years",
+    "value": 165000,
+    "grades": [
+      "college"
+    ],
+    "tags": [
+      "need",
+      "merit"
+    ],
+    "need": true,
+    "who": "Top community college students with financial need who plan to transfer to a four-year college to finish a bachelor's degree.",
+    "opens": "Open now",
+    "deadline": "2026-12-09",
+    "confirmed": true,
+    "url": "https://www.jkcf.org/our-scholarships/undergraduate-transfer-scholarship/",
+    "notes": "Last-dollar award, applied after the college's own aid. Only for students currently at a community college.",
+    "awards": ""
+  },
+  {
+    "id": "nesa",
+    "name": "NESA Eagle Scout Scholarships",
+    "sponsor": "National Eagle Scout Association",
+    "amount": "$4,000 to $50,000",
+    "value": 50000,
+    "awards": "Several award levels from one application",
+    "grades": [
+      "senior",
+      "college"
+    ],
+    "tags": [
+      "service",
+      "leadership",
+      "merit"
+    ],
+    "groups": [
+      "eagle"
+    ],
+    "who": "Eagle Scouts who are NESA members and are enrolled full time in a degree or skilled-trade program, from senior year of high school through junior year of college.",
+    "opens": "Dec 1, 2026",
+    "deadline": "2027-02-01",
+    "confirmed": true,
+    "url": "https://nesa.org/for-eagle-scouts/scholarships/",
+    "notes": "Closes at 11:59 p.m. Central. The top awards are four-year scholarships of $50,000 and $30,000."
+  },
+  {
+    "id": "shpe",
+    "name": "ScholarSHPE",
+    "sponsor": "Society of Hispanic Professional Engineers (SHPE)",
+    "amount": "Varies; more than 1,500 awarded since 2018",
+    "value": 5000,
+    "grades": [
+      "senior",
+      "college"
+    ],
+    "tags": [
+      "stem"
+    ],
+    "min_gpa": 2.5,
+    "who": "Active SHPE members with a 2.5 GPA or higher who are pursuing a STEM degree. High school seniors can apply.",
+    "opens": "Early February",
+    "deadline": "2027-02-16",
+    "confirmed": false,
+    "url": "https://shpe.org/engage/programs/scholarshpe/",
+    "notes": "Date is last cycle's (February 2 to 16, 2026) moved forward a year. The window is only two weeks long, so join SHPE and prepare beforehand.",
+    "awards": ""
+  },
+  {
+    "id": "engebretson",
+    "name": "Engebretson Foundation Scholarship",
+    "sponsor": "Engebretson Foundation",
+    "amount": "$10,000 a semester",
+    "value": 80000,
+    "grades": [
+      "senior"
+    ],
+    "tags": [
+      "merit",
+      "leadership"
+    ],
+    "who": "High school seniors recognized for academic achievement and leadership.",
+    "opens": "Jan 1, 2027",
+    "deadline": "2027-03-01",
+    "confirmed": true,
+    "url": "https://www.engebretsonfoundation.org/",
+    "notes": "You can reapply each year of college. Past cycles also asked for financial need and strong test scores; read the requirements when it opens.",
+    "awards": ""
+  },
+  {
+    "id": "greeting-card",
+    "name": "Create-A-Greeting-Card Scholarship Contest",
+    "sponsor": "The Gallery Collection",
+    "amount": "Cash scholarship for the winning design",
+    "value": 10000,
+    "awards": "One winner",
+    "grades": [
+      "freshman",
+      "sophomore",
+      "junior",
+      "senior",
+      "college"
+    ],
+    "tags": [
+      "arts"
+    ],
+    "who": "Students aged 14 or older enrolled in high school, college or homeschool. Submit one original artwork or photo for the front of a greeting card.",
+    "opens": "Jul 8, 2026",
+    "deadline": "2027-03-08",
+    "confirmed": true,
+    "url": "https://www.gallerycollection.com/greeting-cards-scholarship.htm",
+    "notes": "The page checked did not show the prize amount; past contests paid $10,000 to the winner. No essay, just the artwork."
+  },
+  {
+    "id": "aises",
+    "name": "AISES Scholarships",
+    "sponsor": "American Indian Science and Engineering Society",
+    "amount": "$1,000 to $5,000 for most awards",
+    "value": 6500,
+    "awards": "Several awards from one application",
+    "grades": [
+      "senior",
+      "college"
+    ],
+    "tags": [
+      "stem"
+    ],
+    "groups": [
+      "native"
+    ],
+    "min_gpa": 2.0,
+    "who": "Indigenous students (tribal citizens or descendants, Native Hawaiians, Pacific Islanders, Canadian Indigenous) who are AISES members studying STEM full time. Minimum GPA runs from 2.0 to 3.0 depending on the award.",
+    "opens": "Dec 15, 2026",
+    "deadline": "2027-04-30",
+    "confirmed": true,
+    "url": "https://aises.org/scholarships/",
+    "notes": "Opens December 15 and closes April 30 each year. One award for trade students adds money for tools."
+  },
+  {
+    "id": "edison",
+    "name": "Edison Scholars",
+    "sponsor": "Edison International",
+    "amount": "$50,000",
+    "value": 50000,
+    "awards": "30 a year",
+    "grades": [
+      "senior"
+    ],
+    "tags": [
+      "stem",
+      "need"
+    ],
+    "states": [
+      "CA"
+    ],
+    "min_gpa": 3.0,
+    "need": true,
+    "who": "High school seniors living in Southern California Edison's service area, with a 3.0 GPA or higher and financial need, who plan to study an eligible STEM major at a four-year college.",
+    "opens": "This fall",
+    "deadline": null,
+    "confirmed": true,
+    "url": "https://www.edison.com/community/edison-scholars",
+    "notes": "Only for parts of Southern California served by Southern California Edison. The site says the 2027 application opens this fall but gave no dates yet."
+  },
+  {
+    "id": "stokes",
+    "name": "Stokes Educational Scholarship Program",
+    "sponsor": "National Security Agency",
+    "amount": "Up to $30,000 a year for tuition, plus a year-round salary",
+    "value": 200000,
+    "grades": [
+      "senior"
+    ],
+    "tags": [
+      "stem",
+      "military"
+    ],
+    "min_gpa": 3.0,
+    "who": "U.S. citizens who are high school seniors, able to get a security clearance, with at least a 1200 SAT or 25 ACT and a 3.0 GPA. Majors include computer science, cybersecurity, AI, data science, mathematics, and computer or electrical engineering.",
+    "opens": "Early fall",
+    "deadline": null,
+    "confirmed": false,
+    "url": "https://www.nsa.gov/Careers/Student-Programs/Stokes-Educational-Scholarship-Program/",
+    "notes": "You work summers at NSA and owe one and a half times your years of study afterward. Past deadlines ranged from October 31 to November 30 and this year's could not be confirmed, so check immediately.",
+    "awards": ""
+  },
+  {
+    "id": "hacer",
+    "name": "McDonald's HACER National Scholarship",
+    "sponsor": "McDonald's",
+    "amount": "Up to $100,000",
+    "value": 100000,
+    "awards": "Up to 30 a year in three tiers",
+    "grades": [
+      "senior"
+    ],
+    "tags": [
+      "need",
+      "merit",
+      "service"
+    ],
+    "groups": [
+      "hispanic"
+    ],
+    "who": "High school seniors of Hispanic heritage who are U.S. citizens, permanent residents or DACA recipients. Need-based, with merit considered.",
+    "opens": "Fall",
+    "deadline": null,
+    "confirmed": false,
+    "url": "https://www.mcdonalds.com/us/en-us/community/hacer.html",
+    "notes": "The official page blocked automated checking and directories disagree on the details: deadlines range from February 5 to February 24, and the minimum GPA from 2.5 to 3.0. Confirm on the site."
+  },
+  {
+    "id": "morehead-cain",
+    "name": "Morehead-Cain Scholarship",
+    "sponsor": "Morehead-Cain Foundation (UNC-Chapel Hill)",
+    "amount": "Full four-year scholarship at UNC-Chapel Hill",
+    "value": 300000,
+    "grades": [
+      "senior"
+    ],
+    "tags": [
+      "merit",
+      "leadership"
+    ],
+    "who": "High school seniors nominated by their school or an affiliated program. North Carolina residents and students at North Carolina high schools may nominate themselves.",
+    "opens": "Fall of senior year",
+    "deadline": null,
+    "confirmed": true,
+    "url": "https://apply.moreheadcain.org/portal/apply",
+    "notes": "Ask your counselor now whether your school nominates. The portal did not list this year's dates when checked; past deadlines fell in October.",
+    "awards": ""
+  },
+  {
+    "id": "jefferson",
+    "name": "Jefferson Scholarship",
+    "sponsor": "Jefferson Scholars Foundation (University of Virginia)",
+    "amount": "Full cost of attendance at UVA for four years",
+    "value": 330000,
+    "grades": [
+      "senior"
+    ],
+    "tags": [
+      "merit",
+      "leadership"
+    ],
+    "who": "High school seniors nominated by their school. Each eligible school may put forward a student, who then goes through regional and final selection.",
+    "opens": "Fall of senior year",
+    "deadline": null,
+    "confirmed": true,
+    "url": "https://www.jeffersonscholars.org/scholarship",
+    "notes": "You cannot apply on your own: ask your counselor whether your school is a nominating school and when it chooses. Worth over $83,000 a year for students from outside Virginia.",
+    "awards": ""
+  },
+  {
+    "id": "optimist-oratorical",
+    "name": "Optimist Oratorical Contest",
+    "sponsor": "Optimist International",
+    "amount": "$2,500 at district level, up to $15,000 at the world championship",
+    "value": 15000,
+    "awards": "Awards at district, regional and world level",
+    "grades": [
+      "freshman",
+      "sophomore",
+      "junior",
+      "senior"
+    ],
+    "tags": [
+      "essay",
+      "leadership"
+    ],
+    "who": "Students under 19 on October 1 who have not finished high school. Give a short speech on this year's topic, \"How My Actions Strengthen Those Around Me,\" through a local Optimist Club.",
+    "opens": "October",
+    "deadline": null,
+    "confirmed": true,
+    "url": "https://www.optimist.org/member/scholarships4.cfm",
+    "notes": "Each club sets its own date; most finish by late March. Email programs@optimist.org to find a club near you."
+  },
+  {
+    "id": "john-lennon",
+    "name": "John Lennon Award",
+    "sponsor": "BMI Foundation",
+    "amount": "Three scholarships totaling $20,000",
+    "value": 10000,
+    "awards": "3 a year",
+    "grades": [
+      "senior",
+      "college"
+    ],
+    "tags": [
+      "music"
+    ],
+    "who": "Songwriters and composers of contemporary music aged 17 to 24, living in the U.S. Submit one original song as an audio file with a lyric sheet.",
+    "opens": "Not posted",
+    "deadline": null,
+    "confirmed": true,
+    "url": "https://bmifoundation.org/by-application/johnlennonaward",
+    "notes": "The page did not list this cycle's dates; the last age cutoff was February 15, which suggests a mid-February deadline. The BMI Foundation runs other composer awards from the same site."
+  },
+  {
+    "id": "poetry-out-loud",
+    "name": "Poetry Out Loud",
+    "sponsor": "National Endowment for the Arts and Poetry Foundation",
+    "amount": "Cash awards at state and national finals",
+    "value": 20000,
+    "grades": [
+      "freshman",
+      "sophomore",
+      "junior",
+      "senior"
+    ],
+    "tags": [
+      "arts",
+      "essay"
+    ],
+    "who": "Students in grades 9-12. You memorize and recite poems, starting with a contest at your school, then state and national finals.",
+    "opens": "School contests run in fall and winter",
+    "deadline": null,
+    "confirmed": true,
+    "url": "https://www.poetryoutloud.org/competition/rules-eligibility/",
+    "notes": "Your school has to be registered with your state's Poetry Out Loud coordinator; homeschooled students contact the coordinator directly. The page checked did not list prize amounts; past national champions received $20,000.",
+    "awards": ""
+  },
+  {
+    "id": "samsung-legion",
+    "name": "Samsung American Legion Scholarship",
+    "sponsor": "The American Legion",
+    "amount": "$10,000 national, $5,000 runner-up, $1,250 state finalist",
+    "value": 10000,
+    "awards": "10 national scholars and 10 runners-up",
+    "grades": [
+      "junior"
+    ],
+    "tags": [
+      "leadership",
+      "service"
+    ],
+    "groups": [
+      "military"
+    ],
+    "who": "Students who attend American Legion Boys State or Auxiliary Girls State in the summer after junior year and are direct descendants of a wartime U.S. veteran.",
+    "opens": "Jan 1, 2027",
+    "deadline": null,
+    "confirmed": true,
+    "url": "https://www.legion.org/get-involved/scholarships/samsung-american-legion-scholarship",
+    "notes": "Due by the end of the first day of your state's Boys State or Girls State session, so apply before you go."
+  },
+  {
+    "id": "fisher",
+    "name": "Scholarships for Military Children",
+    "sponsor": "Fisher House Foundation",
+    "amount": "At least $2,000",
+    "value": 2000,
+    "awards": "At least one at every commissary that gets qualifying applications",
+    "grades": [
+      "senior",
+      "college"
+    ],
+    "tags": [
+      "merit"
+    ],
+    "groups": [
+      "military"
+    ],
+    "who": "Children of active duty, reserve and retired military members.",
+    "opens": "Winter",
+    "deadline": null,
+    "confirmed": true,
+    "url": "https://www.fisherhouse.org/scholarships",
+    "notes": "The page did not list this cycle's dates when checked; past applications ran from mid-December to mid-February."
+  },
+  {
+    "id": "afsa-essay",
+    "name": "National High School Essay Contest",
+    "sponsor": "American Foreign Service Association",
+    "amount": "$2,500, a trip to Washington and a Semester at Sea voyage",
+    "value": 2500,
+    "awards": "One winner",
+    "grades": [
+      "freshman",
+      "sophomore",
+      "junior",
+      "senior"
+    ],
+    "tags": [
+      "essay"
+    ],
+    "who": "Students in grades 9-12 in the U.S. or U.S. citizens abroad, writing 1,000 to 1,500 words on a diplomacy topic. Children of Foreign Service members are excluded.",
+    "opens": "Not posted",
+    "deadline": null,
+    "confirmed": true,
+    "url": "https://www.afsa.org/essay-contest",
+    "notes": "The last contest has closed and the next one was not posted when checked; past deadlines fell in early April."
+  },
+  {
+    "id": "bigfuture",
+    "name": "BigFuture Scholarships",
+    "sponsor": "College Board",
+    "amount": "$500 and $40,000 drawings",
+    "value": 40000,
+    "awards": "Monthly drawings",
+    "grades": [
+      "junior",
+      "senior"
+    ],
+    "tags": [
+      "drawing"
+    ],
+    "who": "Students in the classes of 2027 and 2028. No essay, GPA or test score: you earn entries by completing college-planning steps on your BigFuture dashboard, such as building a college list and filing the FAFSA.",
+    "opens": "Open now",
+    "deadline": null,
+    "confirmed": true,
+    "url": "https://bigfuture.collegeboard.org/pay-for-college/bigfuture-scholarships",
+    "notes": "A drawing, not a competition, so the odds are long, but the steps are ones you need to do anyway. Finishing each step earlier gives more chances."
+  },
+  {
+    "id": "point",
+    "name": "Point Foundation Scholarships",
+    "sponsor": "Point Foundation",
+    "amount": "Varies, with mentoring and leadership training",
+    "value": 10000,
+    "awards": "Flagship, Access and Career & Technical awards",
+    "grades": [
+      "senior",
+      "college"
+    ],
+    "tags": [
+      "leadership",
+      "need"
+    ],
+    "groups": [
+      "lgbtq"
+    ],
+    "who": "LGBTQ+ and ally students at accredited U.S. colleges. The Access scholarship is for low-income or first-generation students; a separate award covers trade and vocational programs.",
+    "opens": "Open now",
+    "deadline": null,
+    "confirmed": true,
+    "url": "https://pointfoundation.org/scholarships",
+    "notes": "Three of the applications were open when checked, but the page did not list closing dates. Look now."
+  }
+]
