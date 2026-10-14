@@ -1596,5 +1596,328 @@
     "confirmed": true,
     "url": "https://pointfoundation.org/scholarships",
     "notes": "Three of the applications were open when checked, but the page did not list closing dates. Look now."
+  },
+  {
+    "id": "ussyp",
+    "name": "United States Senate Youth Program",
+    "sponsor": "The Hearst Foundations and the U.S. Senate",
+    "amount": "$12,500",
+    "value": 12500,
+    "awards": "104 (two per state, D.C. and DoDEA)",
+    "grades": [
+      "junior",
+      "senior"
+    ],
+    "tags": [
+      "leadership",
+      "service",
+      "merit"
+    ],
+    "who": "High school juniors and seniors who hold an elected or appointed leadership post for the whole school year, such as student body or class officer, student council representative, or National Honor Society officer. U.S. citizen or permanent resident. Selected by each state's education department.",
+    "opens": "Varies by state",
+    "deadline": "2026-12-01",
+    "confirmed": true,
+    "url": "https://ussenateyouth.org/",
+    "notes": "December 1, 2026 is the national date by which states must name their delegates; each state sets an earlier student deadline, listed on the program's State Contacts and Deadlines page. Winners also spend Washington Week (March 6-13, 2027) in D.C. with all costs paid.",
+    "need": false
+  },
+  {
+    "id": "breakthrough-junior",
+    "name": "Breakthrough Junior Challenge",
+    "sponsor": "Breakthrough Prize Foundation",
+    "amount": "$250,000",
+    "value": 250000,
+    "awards": "1",
+    "grades": [
+      "freshman",
+      "sophomore",
+      "junior",
+      "senior"
+    ],
+    "tags": [
+      "stem",
+      "merit"
+    ],
+    "who": "High school students who make a short original video explaining a big idea or concept in physics, life sciences or mathematics.",
+    "opens": "Spring",
+    "deadline": "2026-09-15",
+    "confirmed": true,
+    "url": "https://breakthroughjuniorchallenge.org/",
+    "notes": "The winner's teacher also gets $50,000 and the school a $100,000 science lab. The 2026 challenge closed September 15, 2026; watch for the next one.",
+    "need": false
+  },
+  {
+    "id": "washington-crossing",
+    "name": "National Washington Crossing Foundation Scholarship",
+    "sponsor": "Washington Crossing Foundation",
+    "amount": "$1,000 to $10,000",
+    "value": 10000,
+    "awards": "",
+    "grades": [
+      "senior"
+    ],
+    "tags": [
+      "essay",
+      "service",
+      "leadership"
+    ],
+    "who": "High school seniors who are U.S. citizens and plan a career in local, state or federal government service. One-page essay (300 words or fewer) on why you want a government career and what inspires you about George Washington's crossing of the Delaware.",
+    "opens": "Open now",
+    "deadline": "2027-01-15",
+    "confirmed": true,
+    "url": "https://www.gwcf.org/scholarship",
+    "notes": "Sent by mail: three copies of the essay and of a recommendation from your principal or counselor, plus transcript and test scores, postmarked by January 15, 2027.",
+    "need": false
+  },
+  {
+    "id": "glenn-miller",
+    "name": "Glenn Miller Scholarship Competition",
+    "sponsor": "Glenn Miller Birthplace Society",
+    "amount": "$3,000 to $10,000",
+    "value": 10000,
+    "awards": "6 (three vocal, three instrumental)",
+    "grades": [
+      "senior",
+      "college"
+    ],
+    "tags": [
+      "music",
+      "merit"
+    ],
+    "who": "High school seniors and college freshmen who plan to make music their focus, in a vocal or an instrumental category. Finalists perform in person in Clarinda, Iowa, at their own travel cost.",
+    "opens": "Winter",
+    "deadline": "2026-04-20",
+    "confirmed": false,
+    "url": "https://www.glennmiller.org/scholarship",
+    "notes": "The date shown is the 2026 deadline; the 2027 date has not been posted yet. Prizes in each category: $10,000, $5,000 and $3,000.",
+    "need": false
+  },
+  {
+    "id": "princeton-prize",
+    "name": "Princeton Prize in Race Relations",
+    "sponsor": "Princeton University Alumni Association",
+    "amount": "$2,500",
+    "value": 2500,
+    "awards": "",
+    "grades": [
+      "freshman",
+      "sophomore",
+      "junior",
+      "senior"
+    ],
+    "tags": [
+      "service",
+      "leadership"
+    ],
+    "who": "U.S. high school students who led an activity in the last 12 months that advanced racial equity or understanding in their school or community. Grades are not considered. A sponsor who is not a relative completes part of the application.",
+    "opens": "Fall",
+    "deadline": "2027-01-15",
+    "confirmed": false,
+    "url": "https://pprize.princeton.edu/apply",
+    "notes": "The prize site blocks automated reading. Directories list January 15, 2027; the 2025 application form said January 31. Winners also get a paid trip to the Symposium on Race at Princeton.",
+    "need": false
+  },
+  {
+    "id": "jshs",
+    "name": "Junior Science and Humanities Symposium (JSHS)",
+    "sponsor": "U.S. Army, Navy and Air Force with NSTA",
+    "amount": "$4,000 to $12,000",
+    "value": 12000,
+    "awards": "24 national scholarships",
+    "grades": [
+      "freshman",
+      "sophomore",
+      "junior",
+      "senior"
+    ],
+    "tags": [
+      "stem",
+      "merit"
+    ],
+    "who": "High school students who have done original research in science, technology, engineering or math. You enter through your regional symposium; the top regional finalists go to the national symposium.",
+    "opens": "Varies by region",
+    "deadline": null,
+    "confirmed": true,
+    "url": "https://www.jshs.org/",
+    "notes": "National oral winners in each of eight categories get $12,000, $8,000 or $4,000, paid to their college over four years. Regional symposia run January to March 2027; regional paper deadlines come earlier. The 2027 national symposium is April 20-25 in Chantilly, Virginia.",
+    "need": false
+  },
+  {
+    "id": "optimist-essay",
+    "name": "Optimist International Essay Contest",
+    "sponsor": "Optimist International",
+    "amount": "$2,500",
+    "value": 2500,
+    "awards": "",
+    "grades": [
+      "freshman",
+      "sophomore",
+      "junior",
+      "senior"
+    ],
+    "tags": [
+      "essay"
+    ],
+    "who": "Students under 19 on October 1 who have not finished high school. The 2026-27 topic is \"Finding My Voice in a World Full of Noise.\" You enter through a local Optimist Club; club winners advance to the district contest.",
+    "opens": "October 1",
+    "deadline": null,
+    "confirmed": true,
+    "url": "https://www.optimist.org/member/scholarships3.cfm",
+    "notes": "Each club sets its own deadline; club contests finish by early February. The $2,500 scholarship is awarded at the district level.",
+    "need": false
+  },
+  {
+    "id": "mcsf",
+    "name": "Marine Corps Scholarship Foundation Scholarships",
+    "sponsor": "Marine Corps Scholarship Foundation",
+    "amount": "Varies; up to $10,000 a year for children of wounded Marines",
+    "value": 10000,
+    "awards": "",
+    "grades": [
+      "senior",
+      "college"
+    ],
+    "tags": [
+      "need",
+      "military"
+    ],
+    "groups": [
+      "military"
+    ],
+    "min_gpa": 2.0,
+    "need": true,
+    "who": "Children of active duty, Reserve or honorably discharged U.S. Marines, or of Navy Corpsmen, Chaplains and Religious Program Specialists who served with Marines. Family adjusted gross income of $134,000 or less (2025 tax year), unless a parent was killed in service. Minimum 2.0 GPA.",
+    "opens": "Jan 1, 2027",
+    "deadline": "2027-03-01",
+    "confirmed": true,
+    "url": "https://www.mcsf.org/apply/",
+    "notes": "The undergraduate application is open every year from January 1 to March 1. Children of fallen Marines receive a guaranteed $30,000 over four years."
+  },
+  {
+    "id": "tanabe",
+    "name": "Gen and Kelly Tanabe Scholarship",
+    "sponsor": "Gen and Kelly Tanabe",
+    "amount": "$1,000",
+    "value": 1000,
+    "awards": "",
+    "grades": [
+      "freshman",
+      "sophomore",
+      "junior",
+      "senior",
+      "college"
+    ],
+    "tags": [
+      "essay",
+      "merit"
+    ],
+    "who": "Students in grades 9-12, college and graduate school who are legal U.S. residents. Winners are chosen mainly on a short personal statement.",
+    "opens": "Open now",
+    "deadline": null,
+    "confirmed": false,
+    "url": "https://www.genkellyscholarship.com/",
+    "notes": "The sponsor's site does not show dates. Directories list two deadlines a year, July 31 and December 31.",
+    "need": false
+  },
+  {
+    "id": "jasna-essay",
+    "name": "JASNA Essay Contest",
+    "sponsor": "Jane Austen Society of North America",
+    "amount": "$250 to $1,000",
+    "value": 1000,
+    "awards": "3 in the high school division",
+    "grades": [
+      "freshman",
+      "sophomore",
+      "junior",
+      "senior"
+    ],
+    "tags": [
+      "essay"
+    ],
+    "who": "High school and home-schooled students who write an essay on a set Jane Austen topic.",
+    "opens": "Feb 2027",
+    "deadline": "2026-06-01",
+    "confirmed": false,
+    "url": "https://jasna.org/essay-contest/",
+    "notes": "The date shown is the 2026 deadline. The 2027 topic will be posted in November 2026 and entries open in February 2027. First place also gets a trip to JASNA's annual meeting (lodging and registration).",
+    "need": false
+  },
+  {
+    "id": "pride-foundation",
+    "name": "Pride Foundation Scholarships",
+    "sponsor": "Pride Foundation",
+    "amount": "Varies (more than 60 funds; $1,000,000 to 121 students last year)",
+    "value": 8000,
+    "awards": "About 120",
+    "grades": [
+      "senior",
+      "college"
+    ],
+    "tags": [
+      "need",
+      "leadership"
+    ],
+    "groups": [
+      "lgbtq"
+    ],
+    "states": [
+      "AK",
+      "ID",
+      "MT",
+      "OR",
+      "WA"
+    ],
+    "who": "LGBTQ+ students who live in Alaska, Idaho, Montana, Oregon or Washington (or lived there for a year in the last five years) and will be in college, trade school or graduate school in 2027-28. U.S. citizenship is not required.",
+    "opens": "Oct 11, 2026",
+    "deadline": "2027-01-08",
+    "confirmed": true,
+    "url": "https://pridefoundation.org/find-funding/scholarships/",
+    "notes": "One application covers all of the foundation's scholarship funds. Priority goes to students facing family rejection, financial need or housing instability.",
+    "need": false
+  },
+  {
+    "id": "andrade",
+    "name": "Dr. Juan Andrade Jr. Scholarship for Young Hispanic Leaders",
+    "sponsor": "United States Hispanic Leadership Institute",
+    "amount": "$1,000",
+    "value": 1000,
+    "awards": "",
+    "grades": [
+      "senior",
+      "college"
+    ],
+    "tags": [
+      "need",
+      "leadership"
+    ],
+    "need": true,
+    "who": "High school seniors and college students up to age 25 who will study full time at an accredited two- or four-year college in 2027-28 and show financial need. Meant for young Hispanic leaders; non-U.S. citizens may apply.",
+    "opens": "Open now",
+    "deadline": "2026-12-30",
+    "confirmed": true,
+    "url": "https://www.ushli.org/dr-juan-andrade-jr-scholarship-for-young-hispanic-leaders/",
+    "notes": "One-time award. Letters of recommendation are also due December 30, 2026."
+  },
+  {
+    "id": "elks-legacy",
+    "name": "Elks Legacy Awards",
+    "sponsor": "Elks National Foundation",
+    "amount": "$6,000 ($1,500 a year for four years)",
+    "value": 6000,
+    "awards": "400",
+    "grades": [
+      "senior"
+    ],
+    "tags": [
+      "merit"
+    ],
+    "who": "High school seniors who are the child, grandchild, stepchild, step-grandchild or legal ward of an Elk who joined by April 1, 2024 and stays a dues-paying member through March 31, 2027.",
+    "opens": "Sep 1, 2026",
+    "deadline": "2027-02-01",
+    "confirmed": true,
+    "url": "https://www.elks.org/scholars/scholarships/Legacy.cfm",
+    "notes": "Deadline is 11:59 a.m. Pacific time. Only for Elks families; see Elks Most Valuable Student for the award open to everyone.",
+    "need": false
   }
 ]
