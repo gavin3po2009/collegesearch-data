@@ -46,7 +46,7 @@
     {
       "name": "BigFuture Scholarship Search",
       "text": "The College Board's search. Free; uses the same account as the SAT and matches you to scholarships from your profile.",
-      "url": "https://bigfuture.collegeboard.org/pay-for-college/scholarship-search"
+      "url": "https://bigfuture.collegeboard.org/scholarship-search"
     },
     {
       "name": "Fastweb",
@@ -77,12 +77,12 @@
     { "state": "CA", "agency": "California Student Aid Commission", "programs": "Cal Grant, Middle Class Scholarship, California Dream Act aid", "url": "https://csac.ca.gov/" },
     { "state": "CO", "agency": "Colorado Department of Higher Education", "programs": "Colorado Student Grant, College Opportunity Fund stipend", "url": "https://cdhe.colorado.gov/" },
     { "state": "CT", "agency": "Connecticut Office of Higher Education", "programs": "Roberta B. Willis Scholarship", "url": "https://www.ctohe.org/" },
-    { "state": "DE", "agency": "Delaware Higher Education Office", "programs": "SEED Scholarship, Inspire Scholarship, Scholarship Incentive Program", "url": "https://delawarestudentsuccess.org/" },
+    { "state": "DE", "agency": "Delaware Higher Education Office", "programs": "SEED Scholarship, Inspire Scholarship, Scholarship Incentive Program", "url": "https://www.delawarestudentsuccess.org/" },
     { "state": "DC", "agency": "Office of the State Superintendent of Education", "programs": "DC Tuition Assistance Grant (DC TAG)", "url": "https://osse.dc.gov/dctag" },
     { "state": "FL", "agency": "Florida Office of Student Financial Assistance", "programs": "Bright Futures Scholarship, Florida Student Assistance Grant", "url": "https://floridastudentfinancialaid.org/" },
     { "state": "GA", "agency": "Georgia Student Finance Commission", "programs": "HOPE Scholarship, Zell Miller Scholarship, HOPE Grant", "url": "https://gafutures.org/" },
-    { "state": "HI", "agency": "University of Hawaii Financial Aid Services", "programs": "Hawaii Promise Scholarship, Hawaii B Plus Scholarship", "url": "https://hawaii.edu/fas" },
-    { "state": "ID", "agency": "Idaho State Board of Education", "programs": "Idaho Opportunity Scholarship, Idaho LAUNCH", "url": "https://boardofed.idaho.gov/scholarships" },
+    { "state": "HI", "agency": "University of Hawaii Financial Aid Services", "programs": "Hawaii Promise Scholarship, Hawaii B Plus Scholarship", "url": "https://manoa.hawaii.edu/fas/" },
+    { "state": "ID", "agency": "Idaho State Board of Education", "programs": "Idaho Opportunity Scholarship, Idaho LAUNCH", "url": "https://boardofed.idaho.gov/education-programs/state-aid-tuition-exchange/" },
     { "state": "IL", "agency": "Illinois Student Assistance Commission", "programs": "Monetary Award Program (MAP) grant", "url": "https://isac.org/" },
     { "state": "IN", "agency": "Indiana Commission for Higher Education", "programs": "21st Century Scholars, Frank O'Bannon Grant", "url": "https://learnmoreindiana.org/" },
     { "state": "IA", "agency": "Iowa Department of Education", "programs": "Iowa Tuition Grant, All Iowa Opportunity Scholarship, Last-Dollar Scholarship", "url": "https://educate.iowa.gov/higher-ed/financial-aid" },
