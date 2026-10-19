@@ -235,7 +235,7 @@
     "who": "High school seniors in the U.S., Puerto Rico or Canada planning two- or four-year college or vocational school. Considers GPA, work experience, activities, community service and need.",
     "opens": "Oct 15, 2026",
     "deadline": "2026-12-15",
-    "confirmed": false,
+    "confirmed": true,
     "url": "https://burgerking.scholarsapply.org/",
     "notes": "Closes early once 30,000 applications arrive, so apply the week it opens. Most awards are $1,000, and thousands are given. Dates and the 2.5 GPA come from directories, not the sponsor's page."
   },
@@ -256,10 +256,10 @@
     "min_gpa": 2.5,
     "who": "High school seniors in the 50 states, D.C. or Puerto Rico with a 2.5 GPA or higher who show drive and a record of giving back to their community.",
     "opens": "Sep 1, 2026",
-    "deadline": "2026-12-18",
-    "confirmed": false,
+    "deadline": "2026-12-22",
+    "confirmed": true,
     "url": "https://scholarshipamerica.org/scholarship/equitableexcellence/",
-    "notes": "Date is from scholarship directories and matches last year's (December 18, 2025). Run by Scholarship America."
+    "notes": "Deadline read from the sponsor page: December 22, 2026, 3:00 p.m. Central. Requires a transcript and the first two pages of a recent IRS Form 1040. Run by Scholarship America."
   },
   {
     "id": "ge-reagan",
@@ -304,10 +304,10 @@
     ],
     "who": "Ages 16 to 26, legal U.S. residents, heading to or enrolled in a two-year, four-year, vocational or trade program. No GPA or test score requirements; it's about your passion and the impact you want to make.",
     "opens": "Fall 2026",
-    "deadline": "2027-01-06",
-    "confirmed": false,
+    "deadline": "2027-01-05",
+    "confirmed": true,
     "url": "https://tacobellfoundation.org/live-mas-scholarship/",
-    "notes": "The sponsor says 2027 applications open this fall; the date shown is last cycle's (October 14, 2025 to January 6, 2026) moved forward."
+    "notes": "Applications are open until January 5, 2027, 5 p.m. Pacific, per the sponsor. Recent recipients got $25,000. Previous Live Más Scholars can renew up to three times."
   },
   {
     "id": "dell",
@@ -781,9 +781,9 @@
       "essay"
     ],
     "who": "U.S. high school students in grades 9-12, writing about an act of political courage by an elected official.",
-    "opens": "Fall",
-    "deadline": null,
-    "confirmed": false,
+    "opens": "Sep 1, 2026",
+    "deadline": "2027-01-11",
+    "confirmed": true,
     "url": "https://www.jfklibrary.org/learn/education/profile-in-courage-essay-contest",
     "notes": "The official page blocked automated checking. Past contests closed in mid-January; confirm the prize and date on the site."
   },
@@ -896,7 +896,7 @@
     "who": "Artists aged 15-18 or in grades 10-12 in classical music, jazz, voice, dance, design, film, photography, theater, visual arts or writing. U.S. citizens, permanent residents or others able to receive U.S. income.",
     "opens": "Summer",
     "deadline": "2026-10-06",
-    "confirmed": false,
+    "confirmed": true,
     "url": "https://youngarts.org/apply/",
     "notes": "This year's competition has closed; the next application opens in summer 2027. Winners become eligible for nomination as U.S. Presidential Scholars in the Arts."
   },
@@ -1078,7 +1078,7 @@
     "who": "High school seniors graduating in spring 2027 with an unweighted GPA of 3.0 or higher. Categories: community service, engineering, green, technology, and journalism and media.",
     "opens": "Open now",
     "deadline": "2026-11-01",
-    "confirmed": false,
+    "confirmed": true,
     "url": "https://hispanicheritage.org/youth-awards/",
     "notes": "The page showed two different dates (November 1, 2026 and November 2, 2025), so confirm. It did not spell out a heritage requirement; the program honors Latino students."
   },
@@ -1099,7 +1099,7 @@
     "who": "U.S. citizens who are high school seniors or graduates enrolling in a trade program of two years or less: construction, welding, HVAC, transportation, technology and others. Four-year degrees do not qualify.",
     "opens": "Open now",
     "deadline": "2026-10-31",
-    "confirmed": false,
+    "confirmed": true,
     "url": "https://mikeroweworks.org/scholarship/",
     "notes": "Needs a signed S.W.E.A.T. Pledge with four short answers, a video, two references, a transcript and a tuition bill. The page gave October 31 without a year."
   },
@@ -1549,7 +1549,7 @@
     "deadline": null,
     "confirmed": true,
     "url": "https://afsa.org/essay-contest",
-    "notes": "The last contest has closed and the next one was not posted when checked; past deadlines fell in early April."
+    "notes": "The contest is on hiatus for 2026-27 while AFSA reviews its student outreach programs, per its site."
   },
   {
     "id": "bigfuture",
@@ -1919,5 +1919,242 @@
     "url": "https://www.elks.org/scholars/scholarships/Legacy.cfm",
     "notes": "Deadline is 11:59 a.m. Pacific time. Only for Elks families; see Elks Most Valuable Student for the award open to everyone.",
     "need": false
+  },
+  {
+    "id": "boettcher",
+    "name": "Boettcher Scholarship",
+    "sponsor": "Boettcher Foundation",
+    "amount": "$20,000 a year for four years",
+    "value": 80000,
+    "awards": "50 initial winners",
+    "grades": [
+      "senior"
+    ],
+    "tags": [
+      "merit",
+      "leadership",
+      "service"
+    ],
+    "states": [
+      "CO"
+    ],
+    "who": "Graduating Colorado high school seniors, chosen from about 100 finalists for academics, leadership and service. Early-decision commitment to an out-of-state college makes a student ineligible.",
+    "opens": "Sep 1, 2026",
+    "deadline": "2026-11-01",
+    "confirmed": true,
+    "url": "https://boettcherfoundation.org/prospective-scholars/",
+    "notes": "Closes at 5 p.m. on November 1 of senior year. The residency and eligibility details are on the foundation's separate Eligibility page."
+  },
+  {
+    "id": "terry",
+    "name": "Terry Foundation Scholarship",
+    "sponsor": "Terry Foundation",
+    "amount": "Full-ride, last-dollar scholarship for up to eight semesters",
+    "value": 100000,
+    "awards": "",
+    "grades": [
+      "senior"
+    ],
+    "tags": [
+      "need",
+      "merit",
+      "leadership"
+    ],
+    "states": [
+      "TX"
+    ],
+    "need": true,
+    "who": "Texas high school seniors with a strong record, leadership and financial need (FAFSA required) who are nominated by one of the eleven Terry-affiliated Texas public universities. Students must live on campus the first year and cannot take a gap year.",
+    "opens": "Varies by university",
+    "deadline": null,
+    "confirmed": false,
+    "url": "https://terryfoundation.org/apply/",
+    "notes": "There is no direct application: apply through each affiliated university, whose deadlines differ (some fall between December and January). No date was posted by the Foundation."
+  },
+  {
+    "id": "niaf",
+    "name": "NIAF General Scholarship",
+    "sponsor": "National Italian American Foundation",
+    "amount": "$2,500 to $12,000",
+    "value": 12000,
+    "awards": "About 200 scholarships a year",
+    "grades": [
+      "senior",
+      "college"
+    ],
+    "tags": [
+      "merit"
+    ],
+    "min_gpa": 3.5,
+    "who": "U.S. citizens or permanent residents enrolling full time in fall 2027 with a GPA of 3.5 or higher (some awards accept lower) and an interest in Italian culture and heritage. Requires NIAF membership; a parent or grandparent's membership counts.",
+    "opens": "Dec 1, 2026",
+    "deadline": "2027-03-01",
+    "confirmed": true,
+    "url": "https://www.niaf.org/scholarships/",
+    "notes": "Closes at 11:59 p.m. Eastern. Winners are told by May 3, 2027. Individual awards have extra criteria."
+  },
+  {
+    "id": "nsbe",
+    "name": "NSBE Scholarships",
+    "sponsor": "National Society of Black Engineers",
+    "amount": "$500 to $17,500",
+    "value": 17500,
+    "awards": "",
+    "grades": [
+      "senior",
+      "college"
+    ],
+    "tags": [
+      "stem"
+    ],
+    "groups": [
+      "black"
+    ],
+    "min_gpa": 2.0,
+    "who": "NSBE members who are incoming freshmen or current college students in engineering or related fields. GPA minimums run from 2.0 to 3.0 depending on the award, and members must verify their GPA between September 1, 2026 and February 26, 2027.",
+    "opens": "Fall 2026 cycle \"will open soon\"",
+    "deadline": null,
+    "confirmed": false,
+    "url": "https://www.nsbe.org/scholarships",
+    "notes": "The largest award for freshmen is the Deloitte Foundation scholarship ($17,500). The page gave no application deadline."
+  },
+  {
+    "id": "ncld-ford",
+    "name": "Anne Ford and Allegra Ford Thomas Scholarships",
+    "sponsor": "National Center for Learning Disabilities",
+    "amount": "Allegra Ford Thomas: $5,000 over two years",
+    "value": 10000,
+    "awards": "",
+    "grades": [
+      "senior"
+    ],
+    "tags": [
+      "need"
+    ],
+    "who": "Graduating high school seniors with a documented learning disability (ADHD alone does not qualify). Allegra Ford Thomas is for a two-year, vocational or specialized program; Anne Ford is for a four-year degree.",
+    "opens": "Not posted",
+    "deadline": null,
+    "confirmed": false,
+    "url": "https://ncld.org/?p=327",
+    "notes": "The 2026 cycle was reviewed on a rolling basis until spring 2026, and the 2027 dates were not posted when checked. Documentation such as an IEP or a formal evaluation is required."
+  },
+  {
+    "id": "oca-ups",
+    "name": "OCA-UPS Gold Mountain Scholarship",
+    "sponsor": "OCA - Asian Pacific American Advocates",
+    "amount": "$2,000",
+    "value": 2000,
+    "awards": "",
+    "grades": [
+      "senior"
+    ],
+    "tags": [
+      "need"
+    ],
+    "who": "First-generation high school seniors who will attend a college or university in the fall.",
+    "opens": "Not posted",
+    "deadline": null,
+    "confirmed": false,
+    "url": "https://www.ocanational.org/scholarships",
+    "notes": "The page listed no deadline. OCA also offers the $5,000 Joe and Loanne Chiu Scholastic Scholarship for first-generation students starting undergraduate study."
+  },
+  {
+    "id": "ascap-gould",
+    "name": "ASCAP Foundation Morton Gould Young Composer Awards",
+    "sponsor": "The ASCAP Foundation",
+    "amount": "$500 to $5,000",
+    "value": 5000,
+    "awards": "",
+    "grades": [
+      "junior",
+      "senior",
+      "college"
+    ],
+    "tags": [
+      "music",
+      "arts"
+    ],
+    "who": "Composers at least 13 and under 30 submitting one original concert work written in the last three years. Judged on the music alone; no essay and no entry fee.",
+    "opens": "Not posted",
+    "deadline": "2027-02-07",
+    "confirmed": false,
+    "url": "https://www.ascapfoundation.org/awards-programs/morton-gould-young-composer-awards",
+    "notes": "The ASCAP site blocks automated reading. The date comes from a scholarship listing and fits the early-February pattern; the 2026 winners were announced in June 2026."
+  },
+  {
+    "id": "amvets-child",
+    "name": "AMVETS Child or Grandchild Scholarship",
+    "sponsor": "AMVETS",
+    "amount": "$4,000",
+    "value": 4000,
+    "awards": "",
+    "grades": [
+      "senior",
+      "college"
+    ],
+    "tags": [
+      "military",
+      "need"
+    ],
+    "groups": [
+      "military"
+    ],
+    "who": "Children or grandchildren of veterans or of active-duty, National Guard or Reserve members. Meant to cover costs left after other grants and scholarships.",
+    "opens": "Not posted",
+    "deadline": null,
+    "confirmed": false,
+    "url": "https://amvets.org/scholarships/",
+    "notes": "No deadline was on the page. The application runs through Kaleidoscope."
+  },
+  {
+    "id": "folds-of-honor",
+    "name": "Folds of Honor Scholarships",
+    "sponsor": "Folds of Honor Foundation",
+    "amount": "Based on unmet need; up to $2,500 per term for college",
+    "value": 10000,
+    "awards": "",
+    "grades": [
+      "senior",
+      "college"
+    ],
+    "tags": [
+      "military",
+      "need"
+    ],
+    "groups": [
+      "military"
+    ],
+    "need": true,
+    "who": "Dependents and spouses of fallen or disabled U.S. service members attending an accredited school. College recipients need a 2.0 term GPA to continue.",
+    "opens": "Feb 1, 2027",
+    "deadline": "2027-03-31",
+    "confirmed": false,
+    "url": "https://www.foldsofhonor.org/scholarships",
+    "notes": "The application window runs February 1 to March 31 each year; the date shown is the usual close, as the page showed the window as closed."
+  },
+  {
+    "id": "act-so",
+    "name": "NAACP ACT-SO Competition",
+    "sponsor": "NAACP",
+    "amount": "Scholarships and prizes from national sponsors",
+    "value": 5000,
+    "awards": "",
+    "grades": [
+      "freshman",
+      "sophomore",
+      "junior",
+      "senior"
+    ],
+    "tags": [
+      "arts",
+      "stem",
+      "merit"
+    ],
+    "who": "U.S. citizens in grades 9-12 who are amateurs in the competition categories. Enter one local unit; gold medalists (scores 95-100) go on to the national competition in July.",
+    "opens": "Not posted",
+    "deadline": null,
+    "confirmed": false,
+    "url": "https://www.naacp.org/actso",
+    "notes": "Local competitions run February to April. The page gave no student deadline or national dollar amounts; contact your local unit."
   }
 ]
