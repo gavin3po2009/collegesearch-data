@@ -70,7 +70,7 @@
     }
   ],
   "states": [
-    { "state": "AL", "agency": "Alabama Commission on Higher Education", "programs": "Alabama Student Assistance Program, Alabama Student Grant Program", "url": "https://www.ache.edu/" },
+    { "state": "AL", "agency": "Alabama Commission on Higher Education", "programs": "Alabama Student Assistance Program, Alabama Student Grant Program", "url": "https://ache.edu/" },
     { "state": "AK", "agency": "Alaska Commission on Postsecondary Education", "programs": "Alaska Performance Scholarship, Alaska Education Grant", "url": "https://acpe.alaska.gov/" },
     { "state": "AZ", "agency": "Arizona Board of Regents", "programs": "Arizona Promise Program", "url": "https://azregents.edu/" },
     { "state": "AR", "agency": "Arkansas Division of Higher Education", "programs": "Arkansas Academic Challenge Scholarship, Governor's Distinguished Scholarship", "url": "https://sams.adhe.edu/" },
@@ -105,7 +105,7 @@
     { "state": "NY", "agency": "Higher Education Services Corporation", "programs": "Tuition Assistance Program (TAP), Excelsior Scholarship", "url": "https://hesc.ny.gov/" },
     { "state": "NC", "agency": "College Foundation of North Carolina", "programs": "Next NC Scholarship", "url": "https://www.cfnc.org/" },
     { "state": "ND", "agency": "North Dakota University System", "programs": "North Dakota Scholarship, North Dakota State Grant", "url": "https://ndus.edu/paying-for-college" },
-    { "state": "OH", "agency": "Ohio Department of Higher Education", "programs": "Ohio College Opportunity Grant, Governor's Merit Scholarship", "url": "https://highered.ohio.gov/" },
+    { "state": "OH", "agency": "Ohio Department of Higher Education", "programs": "Ohio College Opportunity Grant, Governor's Merit Scholarship", "url": "https://highered.ohio.gov/educators/financial-aid/sgs/ocog" },
     { "state": "OK", "agency": "Oklahoma State Regents for Higher Education", "programs": "Oklahoma's Promise, Oklahoma Tuition Aid Grant", "url": "https://www.okcollegestart.org/" },
     { "state": "OR", "agency": "Oregon Office of Student Access and Completion", "programs": "Oregon Opportunity Grant, Oregon Promise", "url": "https://oregonstudentaid.gov/" },
     { "state": "PA", "agency": "Pennsylvania Higher Education Assistance Agency", "programs": "PA State Grant", "url": "https://www.pheaa.org/" },

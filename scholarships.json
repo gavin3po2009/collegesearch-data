@@ -113,9 +113,9 @@
     "who": "U.S. citizens who are high school seniors planning a four-year degree. No Elks connection needed. Judged on scholarship, leadership and financial need.",
     "opens": "Aug 1, 2026",
     "deadline": "2026-11-12",
-    "confirmed": false,
+    "confirmed": true,
     "url": "https://www.elks.org/scholars/scholarships/mvs.cfm",
-    "notes": "The Elks site was down when checked; the date comes from two scholarship directories. Confirm it before relying on it."
+    "notes": "Deadline is November 12, 2026 at 11:59 p.m. Pacific, read from the Elks' own page. The program code is ElksMVS."
   },
   {
     "id": "nhs",
@@ -278,15 +278,15 @@
     ],
     "min_gpa": 3.0,
     "who": "U.S. citizens who are high school seniors with a 3.0 GPA or higher, planning full-time study at a four-year college. Looks for leadership, drive, integrity and citizenship.",
-    "opens": "Mid-October (Oct 13 last cycle)",
-    "deadline": "2027-01-05",
-    "confirmed": false,
+    "opens": "Open now",
+    "deadline": "2027-01-07",
+    "confirmed": true,
     "url": "https://www.reaganfoundation.org/education/ge-reagan-foundation-scholarship",
-    "notes": "Date is last cycle's (January 5, 2026, noon Central) moved forward a year; the new cycle wasn't posted when checked."
+    "notes": "The 2027 application is open on the sponsor's site; it closes January 7, 2027 at 3:00 p.m. Eastern."
   },
   {
     "id": "taco-bell",
-    "name": "Live Más Scholarship",
+    "name": "Live M\u00e1s Scholarship",
     "sponsor": "Taco Bell Foundation",
     "amount": "$5,000 to $25,000",
     "value": 25000,
@@ -307,7 +307,7 @@
     "deadline": "2027-01-05",
     "confirmed": true,
     "url": "https://tacobellfoundation.org/live-mas-scholarship/",
-    "notes": "Applications are open until January 5, 2027, 5 p.m. Pacific, per the sponsor. Recent recipients got $25,000. Previous Live Más Scholars can renew up to three times."
+    "notes": "Applications are open until January 5, 2027, 5 p.m. Pacific, per the sponsor. Recent recipients got $25,000. Previous Live M\u00e1s Scholars can renew up to three times."
   },
   {
     "id": "dell",
@@ -373,11 +373,11 @@
     ],
     "need": true,
     "who": "Undergraduates with high financial need who are U.S. citizens, nationals or permanent residents (or citizens of the Marshall Islands, Micronesia or Palau), enrolled or enrolling in a U.S. accredited college.",
-    "opens": "Nov 15, 2026",
-    "deadline": "2027-01-15",
+    "opens": "Jan 15, 2027",
+    "deadline": "2027-04-15",
     "confirmed": true,
     "url": "https://apiascholars.org/scholarships/",
-    "notes": "APIA Scholars serves Asian American, Native Hawaiian and Pacific Islander students. The page checked did not spell out a heritage requirement, so read the eligibility section before applying."
+    "notes": "APIA Scholars serves Asian American, Native Hawaiian and Pacific Islander students. The cycle opens January 15, 2027 and closes April 15, 2027 (5 p.m. Eastern). The page checked did not spell out a heritage requirement, so read the eligibility section before applying."
   },
   {
     "id": "army-rotc",
@@ -449,9 +449,9 @@
     "who": "Undocumented students (with or without DACA or TPS) who came to the U.S. before November 1, 2020 and before age 16, with a 2.5 GPA, significant unmet need and no Pell Grant eligibility.",
     "opens": "Nov 1, 2026",
     "deadline": "2027-02-28",
-    "confirmed": false,
+    "confirmed": true,
     "url": "https://www.thedream.us/scholarships/national-scholarship/",
-    "notes": "The sponsor confirms the next round opens November 1, 2026; the closing date shown is last round's (February 28, 2026) moved forward. For use at partner colleges."
+    "notes": "The sponsor posts the round as open November 1, 2026 to February 28, 2027, with notifications in late April 2027. For use at partner colleges."
   },
   {
     "id": "swe",
@@ -917,11 +917,11 @@
     ],
     "min_gpa": 3.7,
     "who": "U.S. citizens with an unweighted GPA of 3.7 or higher, strong leadership and community service. The application is now filled in during junior year.",
-    "opens": "Early in the calendar year",
-    "deadline": "2026-05-01",
-    "confirmed": false,
+    "opens": "Feb 1, 2027",
+    "deadline": "2027-05-01",
+    "confirmed": true,
     "url": "https://www.bryancameroneducationfoundation.org/",
-    "notes": "The class of 2027 round closed May 1, 2026 (or earlier, once 3,000 eligible applications arrived). The foundation's site blocked automated checking; details are from a high school counseling page."
+    "notes": "Applications for the class of 2028 open February 1, 2027 and close May 1, 2027, or sooner once 3,000 eligible applications arrive, so apply early. Applications are closed now while the class of 2027 is selected."
   },
   {
     "id": "horatio-alger",
@@ -1686,10 +1686,10 @@
     ],
     "who": "High school seniors and college freshmen who plan to make music their focus, in a vocal or an instrumental category. Finalists perform in person in Clarinda, Iowa, at their own travel cost.",
     "opens": "Winter",
-    "deadline": "2026-04-20",
+    "deadline": null,
     "confirmed": false,
     "url": "https://www.glennmiller.org/scholarship",
-    "notes": "The date shown is the 2026 deadline; the 2027 date has not been posted yet. Prizes in each category: $10,000, $5,000 and $3,000.",
+    "notes": "The 2026 deadline (April 20) has passed and the 2027 date has not been posted yet. Prizes in each category: $10,000, $5,000 and $3,000.",
     "need": false
   },
   {
@@ -1837,10 +1837,10 @@
     ],
     "who": "High school and home-schooled students who write an essay on a set Jane Austen topic.",
     "opens": "Feb 2027",
-    "deadline": "2026-06-01",
+    "deadline": null,
     "confirmed": false,
     "url": "https://jasna.org/essay-contest/",
-    "notes": "The date shown is the 2026 deadline. The 2027 topic will be posted in November 2026 and entries open in February 2027. First place also gets a trip to JASNA's annual meeting (lodging and registration).",
+    "notes": "The 2026 deadline (June 1) has passed. The 2027 topic will be posted in November 2026 and entries open in February 2027; the closing date is not posted yet. First place also gets a trip to JASNA's annual meeting (lodging and registration).",
     "need": false
   },
   {
@@ -2079,7 +2079,7 @@
     "deadline": "2027-02-07",
     "confirmed": false,
     "url": "https://www.ascapfoundation.org/awards-programs/morton-gould-young-composer-awards",
-    "notes": "The ASCAP site blocks automated reading. The date comes from a scholarship listing and fits the early-February pattern; the 2026 winners were announced in June 2026."
+    "notes": "The ASCAP page for this award moved and could not be reopened. The date comes from a scholarship listing and fits the early-February pattern; confirm it on ascapfoundation.org before relying on it."
   },
   {
     "id": "amvets-child",
@@ -2156,5 +2156,239 @@
     "confirmed": false,
     "url": "https://www.naacp.org/actso",
     "notes": "Local competitions run February to April. The page gave no student deadline or national dollar amounts; contact your local unit."
+  },
+  {
+    "id": "vrg-vegan",
+    "name": "Vegetarian Resource Group College Scholarship",
+    "sponsor": "The Vegetarian Resource Group",
+    "amount": "$10,000 or $5,000",
+    "value": 40000,
+    "awards": "1 of $10,000 and 5 of $5,000",
+    "grades": [
+      "senior"
+    ],
+    "tags": [
+      "service",
+      "essay"
+    ],
+    "need": false,
+    "who": "Students graduating from a U.S. high school in spring 2027 who have promoted veganism in their school or community. Judged on compassion, courage and commitment to a peaceful world through a vegan lifestyle.",
+    "opens": "Dec 1, 2026 (early submissions)",
+    "deadline": "2027-02-20",
+    "confirmed": true,
+    "url": "https://www.vrg.org/student/scholar",
+    "notes": "Paid to the winner's U.S. college. Runner-up prizes are also given. Winners agree to have their names released to the media."
+  },
+  {
+    "id": "union-plus",
+    "name": "Union Plus Scholarship",
+    "sponsor": "Union Plus Education Foundation",
+    "amount": "$1,000 to $4,000 (one time)",
+    "value": 2500,
+    "awards": "",
+    "grades": [
+      "senior",
+      "college"
+    ],
+    "tags": [
+      "need"
+    ],
+    "need": false,
+    "who": "Current or retired members of participating unions, their spouses and their dependent children, with at least one year of continuous union membership. You do not need to use any Union Plus product to apply.",
+    "opens": "Open now",
+    "deadline": "2027-01-31",
+    "confirmed": true,
+    "url": "https://www.unionplus.org/benefits/education/union-plus-scholarships",
+    "notes": "In 2026, 181 union members and family members shared $300,000. Check the eligibility section for the membership date rule."
+  },
+  {
+    "id": "ffa",
+    "name": "National FFA Scholarships",
+    "sponsor": "National FFA Organization",
+    "amount": "Varies; nearly $2.5 million in total",
+    "value": 5000,
+    "awards": "Hundreds, from one application",
+    "grades": [
+      "senior"
+    ],
+    "tags": [
+      "merit"
+    ],
+    "need": false,
+    "who": "Senior FFA members in high school, and FFA alumni in college, who plan to continue their education at a trade school, two-year or four-year college.",
+    "opens": "Nov 1, 2026",
+    "deadline": "2027-01-14",
+    "confirmed": true,
+    "url": "https://www.ffa.org/participate/grants-and-scholarships/scholarships/",
+    "notes": "One application is matched against every scholarship you qualify for. Winners are notified April 22, 2027."
+  },
+  {
+    "id": "ams-first-year",
+    "name": "AMS First-Year Undergraduate Scholarship",
+    "sponsor": "American Meteorological Society",
+    "amount": "$5,000 ($2,500 a year for two years)",
+    "value": 5000,
+    "awards": "",
+    "grades": [
+      "senior"
+    ],
+    "tags": [
+      "stem",
+      "merit"
+    ],
+    "need": false,
+    "min_gpa": 3.0,
+    "who": "High school students entering their first year of college and planning to study atmospheric, oceanic or hydrologic sciences. U.S. citizen or permanent resident with at least a 3.0 GPA.",
+    "opens": "Open now",
+    "deadline": "2027-01-31",
+    "confirmed": true,
+    "url": "https://www.ametsoc.org/ams/information-for/students/ams-scholarships-and-fellowships/ams-first-year-undergraduate-scholarship/",
+    "notes": "The second $2,500 depends on completing the first year. Sponsors include industry partners and named memorial funds."
+  },
+  {
+    "id": "dar",
+    "name": "DAR National Scholarships",
+    "sponsor": "National Society Daughters of the American Revolution",
+    "amount": "Varies by scholarship",
+    "value": 2500,
+    "awards": "",
+    "grades": [
+      "senior",
+      "college"
+    ],
+    "tags": [
+      "merit"
+    ],
+    "need": false,
+    "who": "Students who apply through the DAR scholarship portal; each named scholarship has its own field of study and eligibility. One national scholarship per person is allowed.",
+    "opens": "Nov 1, 2026",
+    "deadline": "2027-01-31",
+    "confirmed": true,
+    "url": "https://www.dar.org/national-society/scholarships",
+    "notes": "The portal is open November 1 to January 31 at 11:59 p.m. Hawaii time. Read each scholarship description for its rules before applying."
+  },
+  {
+    "id": "jacl",
+    "name": "JACL National Scholarship Program",
+    "sponsor": "Japanese American Citizens League",
+    "amount": "Varies; over $70,000 a year in total",
+    "value": 3000,
+    "awards": "30 or more a year",
+    "grades": [
+      "senior",
+      "college"
+    ],
+    "tags": [
+      "merit",
+      "arts",
+      "need"
+    ],
+    "need": false,
+    "who": "Entering freshmen, undergraduates, graduate and law students, and arts students, plus need-based aid. Applicants must hold their own individual or student/youth JACL membership; a parent's family membership does not count.",
+    "opens": "Not posted",
+    "deadline": null,
+    "confirmed": false,
+    "url": "https://jacl.org/scholarships",
+    "notes": "The 2027 dates are not posted yet. The 2026 freshman deadline was March 2 (per a directory), so expect early March. Two national awards per person at most."
+  },
+  {
+    "id": "lagrant",
+    "name": "LAGRANT Foundation Scholarships",
+    "sponsor": "The LAGRANT Foundation",
+    "amount": "About $2,500 (undergraduate)",
+    "value": 2500,
+    "awards": "About 50 a year, undergraduate and graduate",
+    "grades": [
+      "senior",
+      "college"
+    ],
+    "tags": [
+      "merit"
+    ],
+    "need": false,
+    "who": "Ethnic minority students at accredited colleges pursuing careers in advertising, marketing or public relations.",
+    "opens": "Not posted",
+    "deadline": null,
+    "confirmed": false,
+    "url": "https://lagrantfoundation.org/",
+    "notes": "The foundation awards $150,000 a year to 50 students. The 2027 deadline could not be read on its site; directories give mid to late February with an earlier bonus deadline in January. Confirm before relying on it."
+  },
+  {
+    "id": "osac",
+    "name": "OSAC Scholarship Application (Oregon)",
+    "sponsor": "Oregon Student Access Commission",
+    "amount": "Varies; over $10 million a year in total",
+    "value": 3000,
+    "awards": "600+ scholarships, one application",
+    "grades": [
+      "senior",
+      "college"
+    ],
+    "tags": [
+      "merit",
+      "need"
+    ],
+    "states": [
+      "OR"
+    ],
+    "need": false,
+    "who": "Oregon residents who are U.S. citizens or eligible noncitizens. One application is matched against more than 600 scholarships with their own rules.",
+    "opens": "Nov 1, 2026",
+    "deadline": null,
+    "confirmed": false,
+    "url": "https://oregonstudentaid.gov/scholarships/",
+    "notes": "The 2027-28 application opens November 1, 2026; the closing date is not posted yet. Last cycle ran from November to early March (final deadline March 2, 2026), per a directory."
+  },
+  {
+    "id": "hcf",
+    "name": "Hawaii Community Foundation Scholarships",
+    "sponsor": "Hawaii Community Foundation",
+    "amount": "Varies; over $8 million a year in total",
+    "value": 3000,
+    "awards": "300+ funds, one application",
+    "grades": [
+      "senior",
+      "college"
+    ],
+    "tags": [
+      "need"
+    ],
+    "states": [
+      "HI"
+    ],
+    "min_gpa": 2.0,
+    "need": true,
+    "who": "Hawaii residents with financial need and a cumulative GPA of at least 2.0 who plan to attend a college in the U.S. or its territories. Needs a transcript and the FAFSA submission summary.",
+    "opens": "Dec 1, 2026",
+    "deadline": "2027-02-01",
+    "confirmed": false,
+    "url": "https://www.hawaiicommunityfoundation.org/students",
+    "notes": "The February 1, 2027 (4 p.m. Hawaii time) date comes from the foundation's 2027-28 flyer as found through search; its student page did not list dates, so confirm it."
+  },
+  {
+    "id": "bmi-composer",
+    "name": "BMI Composer Awards",
+    "sponsor": "BMI Foundation",
+    "amount": "$20,000 in total",
+    "value": 20000,
+    "awards": "",
+    "grades": [
+      "freshman",
+      "sophomore",
+      "junior",
+      "senior",
+      "college"
+    ],
+    "tags": [
+      "music",
+      "arts"
+    ],
+    "need": false,
+    "who": "Composers under 28 who live in the U.S. or its territories (or are citizens of a Western Hemisphere country) and submit an original classical work for any instrumentation. Entries are judged anonymously.",
+    "opens": "Not posted",
+    "deadline": null,
+    "confirmed": false,
+    "url": "https://bmifoundation.org/by-application/bmicomposerawards",
+    "notes": "The page still shows the 2026 rules (age counted on February 15, 2026) and no 2027 deadline yet. Past cycles closed in February."
   }
 ]
