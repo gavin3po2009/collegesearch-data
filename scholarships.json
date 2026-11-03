@@ -546,11 +546,11 @@
       "merit"
     ],
     "who": "Students 18 or younger, U.S. citizens or permanent residents, who have completed a significant piece of work in science, technology, engineering, mathematics, literature, music, philosophy or \"outside the box.\"",
-    "opens": "Fall 2026",
-    "deadline": null,
-    "confirmed": false,
+    "opens": "Open now",
+    "deadline": "2027-02-17",
+    "confirmed": true,
     "url": "https://www.davidsongifted.org/gifted-programs/fellows-scholarship/",
-    "notes": "The 2027 application opens this fall; the closing date wasn't posted when checked (past cycles closed in mid-February). The music category takes a performance or composition portfolio."
+    "notes": "The 2027 application is open and closes February 17, 2027 at 11:59 p.m. Pacific. You must be 18 or younger on the deadline; community service projects and plans for a future major are not accepted. The music category takes a performance or composition portfolio."
   },
   {
     "id": "amazon-future-engineer",
@@ -936,9 +936,9 @@
     "tags": [
       "need"
     ],
-    "min_gpa": 2.0,
+    "min_gpa": 2.5,
     "need": true,
-    "who": "High school juniors who are U.S. citizens with a 2.0 GPA or higher and family adjusted gross income of $100,000 or less, who have overcome significant adversity.",
+    "who": "High school juniors who are U.S. citizens with a 2.5 GPA or higher and family adjusted gross income of $100,000 or less, who have overcome significant adversity and take part in service activities.",
     "opens": "Not posted",
     "deadline": null,
     "confirmed": true,
@@ -1300,7 +1300,7 @@
     "id": "edison",
     "name": "Edison Scholars",
     "sponsor": "Edison International",
-    "amount": "$50,000",
+    "amount": "$50,000 ($12,500 a year for four years)",
     "value": 50000,
     "awards": "30 a year",
     "grades": [
@@ -1316,11 +1316,11 @@
     "min_gpa": 3.0,
     "need": true,
     "who": "High school seniors living in Southern California Edison's service area, with a 3.0 GPA or higher and financial need, who plan to study an eligible STEM major at a four-year college.",
-    "opens": "This fall",
-    "deadline": null,
+    "opens": "Open now",
+    "deadline": "2027-01-21",
     "confirmed": true,
     "url": "https://www.edison.com/community/edison-scholars",
-    "notes": "Only for parts of Southern California served by Southern California Edison. The site says the 2027 application opens this fall but gave no dates yet."
+    "notes": "Only for parts of Southern California served by Southern California Edison; you need an SCE customer number. Eligible majors are engineering, computer and information systems, math, physical sciences and similar STEM fields. The 2027 application, run by Scholarship America, closes January 21, 2027 at 11:59 p.m. Pacific."
   },
   {
     "id": "stokes",
@@ -2074,12 +2074,12 @@
       "music",
       "arts"
     ],
-    "who": "Composers at least 13 and under 30 submitting one original concert work written in the last three years. Judged on the music alone; no essay and no entry fee.",
-    "opens": "Not posted",
-    "deadline": "2027-02-07",
+    "who": "Composers at least 13 and under 30 who are U.S. citizens, permanent residents or on a U.S. student visa, submitting one original concert work (no co-written works). Entrants under 18 apply through a parent or guardian. No entry fee.",
+    "opens": "Early January (the 2026 cycle opened January 6)",
+    "deadline": null,
     "confirmed": false,
-    "url": "https://www.ascapfoundation.org/awards-programs/morton-gould-young-composer-awards",
-    "notes": "The ASCAP page for this award moved and could not be reopened. The date comes from a scholarship listing and fits the early-February pattern; confirm it on ascapfoundation.org before relying on it."
+    "url": "https://www.ascapfoundation.org/programs/awards/young-composer-awards",
+    "notes": "The ASCAP page still shows the 2026 rules (open January 6 to February 6, 2026); the 2027 dates are not posted yet. A directory lists February 7, 2027, which is unconfirmed."
   },
   {
     "id": "amvets-child",
@@ -2334,10 +2334,10 @@
     "need": false,
     "who": "Oregon residents who are U.S. citizens or eligible noncitizens. One application is matched against more than 600 scholarships with their own rules.",
     "opens": "Nov 1, 2026",
-    "deadline": null,
+    "deadline": "2027-03-01",
     "confirmed": false,
     "url": "https://oregonstudentaid.gov/scholarships/",
-    "notes": "The 2027-28 application opens November 1, 2026; the closing date is not posted yet. Last cycle ran from November to early March (final deadline March 2, 2026), per a directory."
+    "notes": "The 2027-28 application opened November 1, 2026. OSAC's page gives a standing timeline (early bird February 15, final deadline March 1, moved to the next business day on weekends) but not dates labeled for this cycle, so the March 1, 2027 date is not confirmed."
   },
   {
     "id": "hcf",
@@ -2390,5 +2390,243 @@
     "confirmed": false,
     "url": "https://bmifoundation.org/by-application/bmicomposerawards",
     "notes": "The page still shows the 2026 rules (age counted on February 15, 2026) and no 2027 deadline yet. Past cycles closed in February."
+  },
+  {
+    "id": "mitchell",
+    "name": "Mitchell Scholarship",
+    "sponsor": "The Mitchell Institute",
+    "amount": "$10,000 ($2,500 a year for four years)",
+    "value": 10000,
+    "awards": "200 a year, at least one per Maine public high school",
+    "grades": [
+      "senior"
+    ],
+    "tags": [
+      "need",
+      "merit",
+      "service"
+    ],
+    "states": [
+      "ME"
+    ],
+    "need": true,
+    "who": "Maine residents graduating from a Maine public high school who will start a two-year or four-year college program the fall after graduation. Judged on academics, community impact and financial need.",
+    "opens": "Dec 1, 2026",
+    "deadline": "2027-03-01",
+    "confirmed": true,
+    "url": "https://www.mitchellinstitute.org/scholarship/",
+    "notes": "Apply through the Common App or the Mitchell Scholarship Application (not both); a transcript with first-semester senior grades is due by March 1. Scholars also get free support programs and can apply for fellowship awards of up to $1,500 for unpaid internships."
+  },
+  {
+    "id": "buffett",
+    "name": "Susan Thompson Buffett Foundation Scholarship",
+    "sponsor": "Susan Thompson Buffett Foundation",
+    "amount": "Tuition and fees at a Nebraska public college, renewable for up to five years",
+    "value": 40000,
+    "awards": "",
+    "grades": [
+      "senior"
+    ],
+    "tags": [
+      "need"
+    ],
+    "states": [
+      "NE"
+    ],
+    "min_gpa": 2.0,
+    "need": true,
+    "who": "Nebraska residents graduating from a Nebraska high school (or with a Nebraska GED) with at least a 2.0 unweighted GPA and a Student Aid Index below 10,000, who plan to attend a Nebraska public college. First-time applicants only.",
+    "opens": "Dec 1, 2026",
+    "deadline": "2027-03-01",
+    "confirmed": true,
+    "url": "https://buffettscholarships.org/eligibility-selection",
+    "notes": "The foundation's FAQ says the 2027 online application opens December 1 and is due March 1 by 5 p.m. Central. Some directories list February 1, which is wrong for this cycle. A FAFSA (or the Federal Student Aid Estimator if you can't file one) is required. Decisions arrive before May 1."
+  },
+  {
+    "id": "diller",
+    "name": "Diller Teen Tikkun Olam Awards",
+    "sponsor": "Helen Diller Family Foundation",
+    "amount": "$36,000",
+    "value": 36000,
+    "awards": "15 a year",
+    "grades": [
+      "sophomore",
+      "junior",
+      "senior",
+      "college"
+    ],
+    "tags": [
+      "service",
+      "leadership"
+    ],
+    "who": "Jewish teens aged 15 to 19 on the deadline who live in the U.S. and have led an unpaid volunteer project with measurable impact. The project must be led from the U.S. but can have global reach.",
+    "opens": "Open now",
+    "deadline": "2027-01-07",
+    "confirmed": true,
+    "url": "https://dillerteenawards.org/apply/",
+    "notes": "The award can go toward education or the recipient's project. Others can nominate a teen until a December 2026 nominations deadline; the application itself closes January 7, 2027."
+  },
+  {
+    "id": "sme-ef",
+    "name": "SME Education Foundation Scholarships",
+    "sponsor": "SME Education Foundation",
+    "amount": "$2,500 to $20,000",
+    "value": 10000,
+    "awards": "More than 250 in 2026",
+    "grades": [
+      "senior",
+      "college"
+    ],
+    "tags": [
+      "stem"
+    ],
+    "who": "Graduating high school seniors and college students working toward an associate or bachelor's degree in a technical field that supports manufacturing, such as manufacturing or mechanical engineering. One application covers more than 60 scholarships.",
+    "opens": "Nov 1, 2026",
+    "deadline": "2027-02-01",
+    "confirmed": false,
+    "url": "https://www.smeef.org/scholarships",
+    "notes": "The foundation's page says applications are accepted every year from November 1 to February 1, but it does not show dates labeled for the 2027-28 cycle, so the February 1, 2027 date is not confirmed."
+  },
+  {
+    "id": "bow-seat",
+    "name": "Blue Planet Awareness Contest",
+    "sponsor": "Bow Seat Creative Action for Conservation",
+    "amount": "Cash awards of up to $1,000",
+    "value": 1000,
+    "awards": "",
+    "grades": [
+      "freshman",
+      "sophomore",
+      "junior",
+      "senior"
+    ],
+    "tags": [
+      "arts",
+      "essay",
+      "music"
+    ],
+    "who": "Students aged 11 to 18 anywhere in the world who have not started college, entering alone or as a group. Categories cover visual art, poetry and spoken word, creative writing, film, music and dance, and interactive media. The 2027 theme is environmental disinformation.",
+    "opens": "Open now",
+    "deadline": "2027-06-07",
+    "confirmed": true,
+    "url": "https://bowseat.org/programs/blue-planet-awareness-contest/contest-overview/",
+    "notes": "Formerly the Ocean Awareness Contest. Entries close June 7, 2027 at 11:59 p.m. Eastern. Each student needs an adult sponsor. Ages 15 to 18 compete in the senior division."
+  },
+  {
+    "id": "stop-hunger",
+    "name": "Stephen J. Brady Stop Hunger Scholarship",
+    "sponsor": "Sodexo Stop Hunger Foundation",
+    "amount": "$10,000 scholarship plus a $5,000 grant for your hunger-relief charity",
+    "value": 10000,
+    "awards": "",
+    "grades": [
+      "freshman",
+      "sophomore",
+      "junior",
+      "senior",
+      "college"
+    ],
+    "tags": [
+      "service",
+      "leadership"
+    ],
+    "who": "Students aged 5 to 25 who have made a measurable impact against hunger in their communities through creative, student-led work.",
+    "opens": "August 20 each year",
+    "deadline": "2026-10-20",
+    "confirmed": false,
+    "url": "https://us.stop-hunger.org/grants/youth-scholarships",
+    "notes": "The sponsor's page gives a standing yearly window of August 20 to October 20, so the 2026 window has closed; the date shown is that most recent deadline, not one posted for a specific cycle. National scholars also attend a Sodexo event in May."
+  },
+  {
+    "id": "alpert-jazz",
+    "name": "ASCAP Foundation Herb Alpert Young Jazz Composer Awards",
+    "sponsor": "The ASCAP Foundation",
+    "amount": "Cash prizes; the number and amounts are set by the foundation each year",
+    "value": 1000,
+    "awards": "",
+    "grades": [
+      "freshman",
+      "sophomore",
+      "junior",
+      "senior",
+      "college"
+    ],
+    "tags": [
+      "music",
+      "arts"
+    ],
+    "who": "Jazz composers at least 13 and under 30 on December 1, 2026 who are U.S. citizens, permanent residents or on a U.S. student visa. Submit the score of one original jazz work (no arrangements); past winners of other ASCAP Foundation awards must send a work from the last three years. Entrants under 18 apply through a parent or guardian.",
+    "opens": "Nov 2, 2026",
+    "deadline": "2026-12-01",
+    "confirmed": true,
+    "url": "https://www.ascapfoundation.org/programs/awards/herb-alpert-composer",
+    "notes": "The application period runs from November 2 to December 1, 2026 at 11:59 p.m. Eastern. Winners must be able to submit an IRS Form W-9. Works that already won a national or international prize are not eligible."
+  },
+  {
+    "id": "jkc-young-artist",
+    "name": "Jack Kent Cooke Young Artist Award",
+    "sponsor": "From the Top",
+    "amount": "Up to $10,000",
+    "value": 10000,
+    "awards": "About 20 a year",
+    "grades": [
+      "freshman",
+      "sophomore",
+      "junior",
+      "senior"
+    ],
+    "tags": [
+      "music",
+      "need"
+    ],
+    "need": true,
+    "who": "Classical instrumentalists, singers and composers aged 8 to 18 who are full-time students and have not entered college, and whose family income cannot cover the cost of their music studies. About 90% of past recipients' families earned under $60,000.",
+    "opens": "Open now",
+    "deadline": "2026-11-09",
+    "confirmed": true,
+    "url": "https://fromthetop.org/apply/jack-kent-cooke-young-artist-award/",
+    "notes": "Seniors graduating in 2027 must apply by November 9, 2026; younger students can also use the May 1, 2027 deadline. There is no application fee for this award (the regular From the Top fellowship application's $70 fee does not apply). The money can pay for instruments, lessons, summer programs or college audition travel, and winners appear on From the Top."
+  },
+  {
+    "id": "dolly-parton",
+    "name": "Dolly Parton Songwriters Award",
+    "sponsor": "BMI Foundation",
+    "amount": "$20,000 shared by up to two winners",
+    "value": 10000,
+    "awards": "Up to 2 a year",
+    "grades": [
+      "senior",
+      "college"
+    ],
+    "tags": [
+      "music"
+    ],
+    "who": "Songwriters aged 17 to 24 who submit an original song in Americana, blues, bluegrass, contemporary Christian, country, folk or roots music.",
+    "opens": "Not posted",
+    "deadline": null,
+    "confirmed": false,
+    "url": "https://bmifoundation.org/by-application/dollypartonsongwritersaward",
+    "notes": "The page still shows the 2026 rules (age counted on February 15, 2026) and no 2027 dates. The award can be used for study, an instrument, recording or other career costs, not only tuition."
+  },
+  {
+    "id": "peermusic-latin",
+    "name": "peermusic Latin Music Award",
+    "sponsor": "BMI Foundation",
+    "amount": "$5,000 scholarship plus mentorship",
+    "value": 5000,
+    "awards": "1 a year",
+    "grades": [
+      "senior",
+      "college"
+    ],
+    "tags": [
+      "music"
+    ],
+    "who": "Student songwriters and composers aged 17 to 24 who submit an original song or instrumental composition in any Latin music genre.",
+    "opens": "Not posted",
+    "deadline": null,
+    "confirmed": false,
+    "url": "https://bmifoundation.org/by-application/peermusiclatinmusicaward",
+    "notes": "The page still shows the 2026 rules (age counted on June 30, 2026) and no 2027 dates. The winner is mentored by singer-songwriter and producer Jorge Luis Chacin."
   }
 ]
