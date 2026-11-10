@@ -373,11 +373,11 @@
     ],
     "need": true,
     "who": "Undergraduates with high financial need who are U.S. citizens, nationals or permanent residents (or citizens of the Marshall Islands, Micronesia or Palau), enrolled or enrolling in a U.S. accredited college.",
-    "opens": "Jan 15, 2027",
-    "deadline": "2027-04-15",
+    "opens": "Nov 15, 2026",
+    "deadline": "2027-01-15",
     "confirmed": true,
     "url": "https://apiascholars.org/scholarships/",
-    "notes": "APIA Scholars serves Asian American, Native Hawaiian and Pacific Islander students. The cycle opens January 15, 2027 and closes April 15, 2027 (5 p.m. Eastern). The page checked did not spell out a heritage requirement, so read the eligibility section before applying."
+    "notes": "APIA Scholars serves Asian American, Native Hawaiian and Pacific Islander students. The 2027-28 cycle opens November 15, 2026 and closes January 15, 2027 (5 p.m. Eastern); students are notified by email on April 15, 2027. The page checked did not spell out a heritage requirement, so read the eligibility section before applying."
   },
   {
     "id": "army-rotc",
@@ -568,12 +568,12 @@
     ],
     "min_gpa": 2.3,
     "need": true,
-    "who": "High school seniors planning a bachelor's degree in computer science or a related field, with financial need and a 2.3 GPA or higher, who have taken a computer science course (or take Amazon's assessment). U.S. citizen, permanent resident or authorized to work.",
-    "opens": "Not yet posted",
-    "deadline": null,
-    "confirmed": false,
+    "who": "High school seniors with financial need and a 2.3 GPA or higher who plan a bachelor's degree on one of two tracks: software development (computer science, computer engineering, data science, information systems) or automation engineering (electrical, mechanical, industrial engineering). Must have taken a computer science, engineering or robotics course, or take Amazon's assessment instead. Must be authorized to work in the U.S.",
+    "opens": "Nov 3, 2026",
+    "deadline": "2027-01-05",
+    "confirmed": true,
     "url": "https://www.amazonfutureengineer.com/scholarships",
-    "notes": "The new cycle's dates weren't posted when checked; past cycles closed in mid-winter. Check back in November."
+    "notes": "Up to $40,000 over four years. The teacher recommendation is due January 8, 2027, finalists take an assessment due at the end of January, and winners are notified in mid-April 2027."
   },
   {
     "id": "evans",
@@ -2044,19 +2044,19 @@
     "sponsor": "OCA - Asian Pacific American Advocates",
     "amount": "$2,000",
     "value": 2000,
-    "awards": "",
+    "awards": "12",
     "grades": [
       "senior"
     ],
     "tags": [
       "need"
     ],
-    "who": "First-generation high school seniors who will attend a college or university in the fall.",
-    "opens": "Not posted",
-    "deadline": null,
-    "confirmed": false,
+    "who": "First-generation high school seniors who will start college in fall 2027.",
+    "opens": "Nov 3, 2026",
+    "deadline": "2027-01-31",
+    "confirmed": true,
     "url": "https://www.ocanational.org/scholarships",
-    "notes": "The page listed no deadline. OCA also offers the $5,000 Joe and Loanne Chiu Scholastic Scholarship for first-generation students starting undergraduate study."
+    "notes": "Closes at 11:59 p.m. Pacific Time. One application covers all of OCA's 2027 scholarships, including the $5,000 Joe and Loanne Chiu Scholastic Scholarship for one first-generation student starting undergraduate study."
   },
   {
     "id": "ascap-gould",
@@ -2628,5 +2628,243 @@
     "confirmed": false,
     "url": "https://bmifoundation.org/by-application/peermusiclatinmusicaward",
     "notes": "The page still shows the 2026 rules (age counted on June 30, 2026) and no 2027 dates. The winner is mentored by singer-songwriter and producer Jorge Luis Chacin."
+  },
+  {
+    "id": "wsos-bas",
+    "name": "Washington State Opportunity Scholarship (Baccalaureate)",
+    "sponsor": "Washington State Opportunity Scholarship",
+    "amount": "Up to $1,500 a quarter or $2,250 a semester (up to $22,500 in all)",
+    "value": 22500,
+    "awards": "",
+    "grades": [
+      "senior",
+      "college"
+    ],
+    "tags": [
+      "stem",
+      "need"
+    ],
+    "states": [
+      "WA"
+    ],
+    "min_gpa": 2.75,
+    "need": true,
+    "who": "Washington residents with a 2.75 GPA or higher and family income no more than 125% of the state median who will study an eligible STEM or health care major for a bachelor's degree at a college in Washington. Must file the FAFSA or WASFA. Not for students who already hold a bachelor's degree.",
+    "opens": "Jan 13, 2027",
+    "deadline": "2027-02-25",
+    "confirmed": true,
+    "url": "https://waopportunityscholarship.org/applicants/apply-for-a-scholarship/",
+    "notes": "Funding starts in fall 2027. Scholars also get mentoring and career support. WSOS runs a separate Career and Technical Scholarship (applications March 17 to April 15, 2027)."
+  },
+  {
+    "id": "cobell",
+    "name": "Cobell Undergraduate Scholarship",
+    "sponsor": "Cobell Scholarship (Indigenous Education, Inc.)",
+    "amount": "Up to $5,000 for new scholars (up to $8,000 for returning scholars)",
+    "value": 5000,
+    "awards": "",
+    "grades": [
+      "senior",
+      "college"
+    ],
+    "tags": [
+      "merit",
+      "need"
+    ],
+    "groups": [
+      "native"
+    ],
+    "who": "Enrolled members of a federally recognized American Indian tribe or Alaska Native corporation who will study full-time for an associate or bachelor's degree at an accredited nonprofit college, including tribal and community colleges. No minimum GPA, though 3.25 or higher is considered competitive.",
+    "opens": "Dec 15, 2026",
+    "deadline": "2027-03-31",
+    "confirmed": true,
+    "url": "https://cobellscholar.org/scholarships/undergraduate/",
+    "notes": "Closes at 11:59 p.m. Mountain Time; the reference is due April 7. Applied for through the OASIS portal. Must reapply each year."
+  },
+  {
+    "id": "bennington-writers",
+    "name": "Bennington Young Writers Awards",
+    "sponsor": "Bennington College",
+    "amount": "$2,000 first place, $1,000 second, $500 third in each category",
+    "value": 2000,
+    "awards": "3 prizes in each of poetry, fiction and nonfiction, plus $250 distinguished awards",
+    "grades": [
+      "freshman",
+      "sophomore",
+      "junior",
+      "senior"
+    ],
+    "tags": [
+      "essay",
+      "arts"
+    ],
+    "who": "High school students in grades 9 to 12 anywhere in the world who submit one original poem set, story or nonfiction piece. Free to enter. No AI tools may be used at any stage.",
+    "opens": "Sep 1",
+    "deadline": "2026-11-01",
+    "confirmed": true,
+    "url": "https://www.bennington.edu/events/bennington-young-creators-awards/bennington-young-writers-awards",
+    "notes": "Submissions open each September 1 and close November 1; winners are named in January. Winners who enroll at Bennington get added tuition scholarships (full tuition for first place), but the cash prizes do not require attending Bennington."
+  },
+  {
+    "id": "njcpa-hs",
+    "name": "NJCPA High School Senior Scholarship",
+    "sponsor": "New Jersey Society of CPAs",
+    "amount": "$1,500",
+    "value": 1500,
+    "awards": "",
+    "grades": [
+      "senior"
+    ],
+    "tags": [
+      "merit",
+      "essay"
+    ],
+    "states": [
+      "NJ"
+    ],
+    "who": "New Jersey high school seniors who plan to major in accounting (or take an accounting concentration of at least 24 credits) at a U.S. college. Needs a 3.2 GPA over three years, or an SAT of 1260 or ACT of 26. U.S. citizen or permanent resident.",
+    "opens": "Open now",
+    "deadline": "2026-12-07",
+    "confirmed": true,
+    "url": "https://www.njcpa.org/build-career/become-a-cpa/scholarships/high-school",
+    "notes": "Closes at 11:59 p.m. on December 7, 2026. Selection uses grades, test scores, an essay and an interview. Students starting at a two-year college must sign a letter of intent to finish a four-year accounting degree."
+  },
+  {
+    "id": "seg",
+    "name": "SEG Foundation Scholarships",
+    "sponsor": "Society of Exploration Geophysicists Foundation",
+    "amount": "$500 to $10,000 a year",
+    "value": 10000,
+    "awards": "107 in 2026-27, including 12 for freshmen",
+    "grades": [
+      "senior",
+      "college"
+    ],
+    "tags": [
+      "stem",
+      "merit"
+    ],
+    "who": "High school seniors starting college next year, and college students, with above-average grades who plan a career in applied geophysics. Some awards add rules for field of study, residency or school.",
+    "opens": "Not posted",
+    "deadline": "2027-03-01",
+    "confirmed": true,
+    "url": "https://seg.org/programs/student-programs/scholarships/",
+    "notes": "One application through SEG's Grantinterface portal is matched to many named scholarships. Open to students worldwide."
+  },
+  {
+    "id": "afas-arnold",
+    "name": "General Henry H. Arnold Education Grant",
+    "sponsor": "Air & Space Forces Aid Society",
+    "amount": "Varies with financial need",
+    "value": 2000,
+    "awards": "",
+    "grades": [
+      "senior",
+      "college"
+    ],
+    "tags": [
+      "need",
+      "military"
+    ],
+    "groups": [
+      "military"
+    ],
+    "min_gpa": 2.0,
+    "need": true,
+    "who": "Children (under 24) of active duty, retired or deceased Air Force and Space Force members, and spouses of active duty members, who will study full-time for a first undergraduate degree. Needs a 2.0 GPA and a FAFSA.",
+    "opens": "Early January 2027",
+    "deadline": null,
+    "confirmed": false,
+    "url": "https://afas.org/haparnoldgrant/",
+    "notes": "The 2027-28 application opens in early January 2027; the deadline was not posted when checked. The award size depends on the FAFSA Student Aid Index and college cost. The same application is used for AFAS's Merit and Grit Scholarships."
+  },
+  {
+    "id": "vsa-eya",
+    "name": "Access/VSA Emerging Young Artists Program",
+    "sponsor": "The Kennedy Center",
+    "amount": "$3,000 stipend",
+    "value": 3000,
+    "awards": "15",
+    "grades": [
+      "junior",
+      "senior",
+      "college"
+    ],
+    "tags": [
+      "arts"
+    ],
+    "who": "Visual artists with disabilities aged 16 to 25 who live in the United States. The 2027 theme is \"Thrive.\"",
+    "opens": "Open now",
+    "deadline": "2026-11-19",
+    "confirmed": true,
+    "url": "https://www.kennedy-center.org/education/opportunities-for-artists/competitions-and-commissions/vsa-emerging-young-artists",
+    "notes": "Winners get professional development and one work shown in an exhibition. A stipend for artists, not a college scholarship."
+  },
+  {
+    "id": "banatao",
+    "name": "Banatao Family Filipino American Education Fund",
+    "sponsor": "Asian Pacific Fund",
+    "amount": "$5,000 a year, renewable for 4 years",
+    "value": 20000,
+    "awards": "",
+    "grades": [
+      "senior"
+    ],
+    "tags": [
+      "stem",
+      "merit"
+    ],
+    "states": [
+      "CA"
+    ],
+    "min_gpa": 3.0,
+    "who": "California residents starting full-time at a four-year college who will major in engineering, mathematics, computer science, or environmental or physical science, with a 3.0 GPA or higher. Health careers are not eligible.",
+    "opens": "January 2027",
+    "deadline": null,
+    "confirmed": false,
+    "url": "https://asianpacificfund.org/what-we-do/scholarships/",
+    "notes": "The eligibility list checked did not spell out a heritage requirement beyond the fund's name, so read it before applying. All Asian Pacific Fund scholarships are closed for 2026 and reopen in January 2027; the deadline was not posted when checked."
+  },
+  {
+    "id": "leiber-stoller",
+    "name": "ASCAP Foundation Leiber & Stoller Scholarship for Songwriters",
+    "sponsor": "ASCAP Foundation",
+    "amount": "$10,000 over four years",
+    "value": 10000,
+    "awards": "1",
+    "grades": [
+      "senior"
+    ],
+    "tags": [
+      "music"
+    ],
+    "who": "High school seniors who write original songs and will enroll full-time in a four-year college music program. U.S. citizen, permanent resident or student visa holder. Submit one original song (in English, not co-written) with a lyric sheet and a 250-word essay. Entrants are invited by a school administrator, ASCAP or the Foundation.",
+    "opens": "Spring (the 2026 window opened April 2)",
+    "deadline": null,
+    "confirmed": false,
+    "url": "https://www.ascapfoundation.org/programs/scholarships/leiber-stoller-music-scholarships",
+    "notes": "The page still shows the 2026 cycle (April 2 to May 21, 2026); 2027 dates were not posted when checked. The money is paid to the college for tuition."
+  },
+  {
+    "id": "linkedin-pit",
+    "name": "LinkedIn Possibilities in Tech Scholarship",
+    "sponsor": "LinkedIn",
+    "amount": "$10,000 a year (up to $40,000) plus a laptop and mentoring",
+    "value": 40000,
+    "awards": "",
+    "grades": [
+      "senior"
+    ],
+    "tags": [
+      "stem",
+      "need"
+    ],
+    "need": true,
+    "who": "High school seniors in the U.S. who will start a computer science or similar degree full-time at a four-year nonprofit college and hope to work in software engineering. Chosen on passion and skill in technology and on financial need measured by the FAFSA.",
+    "opens": "Not posted",
+    "deadline": null,
+    "confirmed": false,
+    "url": "https://careers.linkedin.com/pathways-programs/possibilities-scholarship",
+    "notes": "The application for the class entering college in fall 2026 is closed and the next cycle's dates were not posted when checked; last cycle's interviews were in early April. Includes a paid trip to Mountain View, California and mentoring from LinkedIn engineers."
   }
 ]
