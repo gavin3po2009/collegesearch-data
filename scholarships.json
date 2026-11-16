@@ -15,11 +15,11 @@
     ],
     "need": true,
     "who": "High school seniors with strong grades and financial need who plan to attend a four-year college. Last-dollar award: it fills the gap left after the college's own aid. Past winners averaged a 3.99 unweighted GPA.",
-    "opens": "Open now",
+    "opens": "Closed; reopens next cycle",
     "deadline": "2026-11-11",
     "confirmed": true,
     "url": "https://www.jkcf.org/our-scholarships/college-scholarship-program/",
-    "notes": "Applied for through the Common App. One of the largest private scholarships in the country."
+    "notes": "Applied for through the Common App. One of the largest private scholarships in the country. The November 11, 2026 deadline has passed and the foundation's page now says the application is closed."
   },
   {
     "id": "daniels",
@@ -1117,11 +1117,11 @@
       "leadership"
     ],
     "who": "High school seniors applying to Duke University or the University of North Carolina at Chapel Hill. It has its own application, separate from the universities'.",
-    "opens": "Aug 15, 2026",
+    "opens": "Reopens August 2027",
     "deadline": "2026-11-15",
     "confirmed": true,
     "url": "https://robertsonscholars.org/applying/",
-    "notes": "The early window closed October 15, 2026; November 15 is the date for everyone else. The page checked did not list what the award covers; it has historically paid tuition, housing, food and summer programs.",
+    "notes": "The early window closed October 15, 2026; November 15 is the date for everyone else. The page checked did not list what the award covers; it has historically paid tuition, housing, food and summer programs. The 2026 application has closed; the program says it reopens in August 2027.",
     "awards": ""
   },
   {
@@ -2866,5 +2866,291 @@
     "confirmed": false,
     "url": "https://careers.linkedin.com/pathways-programs/possibilities-scholarship",
     "notes": "The application for the class entering college in fall 2026 is closed and the next cycle's dates were not posted when checked; last cycle's interviews were in early April. Includes a paid trip to Mountain View, California and mentoring from LinkedIn engineers."
+  },
+  {
+    "id": "studentcam",
+    "name": "StudentCam Documentary Competition",
+    "sponsor": "C-SPAN",
+    "amount": "$250 to $5,000 per entry ($100,000 in total)",
+    "value": 5000,
+    "awards": "150 winning documentaries",
+    "grades": [
+      "freshman",
+      "sophomore",
+      "junior",
+      "senior"
+    ],
+    "tags": [
+      "arts"
+    ],
+    "who": "Students in grades 6-12 in any U.S. state, D.C. or territory (public, private or home school), alone or in teams of up to three. Make a 5 to 6 minute documentary on the 2027 theme, \"Mr. Speaker, I Rise To...\": the issue you would raise in your first speech as a new member of Congress.",
+    "opens": "Open now",
+    "deadline": "2027-01-20",
+    "confirmed": true,
+    "url": "https://www.studentcam.org/rules",
+    "notes": "Entries are due by 11:59 p.m. Pacific on January 20, 2027; winners are announced March 17, 2027. The grand prize is $5,000, first prizes $3,000, and the teacher or school of each winner also gets money. Cash prizes, not college-only scholarships."
+  },
+  {
+    "id": "legion-eagle-scout",
+    "name": "Eagle Scout of the Year Scholarship",
+    "sponsor": "The American Legion",
+    "amount": "$10,000 (three runners-up get $2,500)",
+    "value": 10000,
+    "awards": "4",
+    "grades": [
+      "junior",
+      "senior"
+    ],
+    "tags": [
+      "leadership",
+      "service"
+    ],
+    "groups": [
+      "eagle"
+    ],
+    "who": "Eagle Scouts nominated through their state American Legion department. The award must be used at an accredited U.S. trade school, college or university within four years of finishing high school.",
+    "opens": "Nov 1, 2026",
+    "deadline": "2027-03-01",
+    "confirmed": true,
+    "url": "https://www.legion.org/get-involved/youth-programs/scholarships/american-legion-eagle-scout-of-the-year-scholarship",
+    "notes": "The nomination window runs November 1 to March 1 each year; packets go to your state's Legion department, which picks one candidate for the national round by April 1. The page checked lists no age or grade limit, so ask your state department; some states add their own rules."
+  },
+  {
+    "id": "sachs",
+    "name": "Sachs Scholarship",
+    "sponsor": "The Sachs Foundation",
+    "amount": "Usually $10,000 a year for up to four years",
+    "value": 40000,
+    "awards": "",
+    "grades": [
+      "senior"
+    ],
+    "tags": [
+      "merit",
+      "need"
+    ],
+    "groups": [
+      "black"
+    ],
+    "states": [
+      "CO"
+    ],
+    "who": "Black high school seniors who have lived in Colorado full time for at least three years (military-orders residency is considered case by case).",
+    "opens": "Jan 1, 2027",
+    "deadline": "2027-03-15",
+    "confirmed": false,
+    "url": "https://www.sachsfoundation.org/sachs-scholarship",
+    "notes": "The foundation's page gives a yearly window of January 1 to March 15 without naming the year, so the 2027 dates are assumed from it. The page checked did not list GPA or need rules; ask info@sachsfoundation.org."
+  },
+  {
+    "id": "jimmy-rane",
+    "name": "Jimmy Rane Foundation Scholarship",
+    "sponsor": "Jimmy Rane Foundation",
+    "amount": "$500 to $6,000 a year",
+    "value": 24000,
+    "awards": "",
+    "grades": [
+      "senior",
+      "college"
+    ],
+    "tags": [
+      "merit",
+      "need"
+    ],
+    "need": true,
+    "min_gpa": 3.0,
+    "states": [
+      "AL",
+      "AR",
+      "DE",
+      "FL",
+      "GA",
+      "IL",
+      "IN",
+      "IA",
+      "KS",
+      "KY",
+      "LA",
+      "MD",
+      "MS",
+      "MO",
+      "NE",
+      "NJ",
+      "NY",
+      "NC",
+      "OH",
+      "OK",
+      "PA",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "WV",
+      "DC"
+    ],
+    "who": "U.S. citizens or permanent residents with financial need whose permanent home is in one of the listed states or D.C. High school seniors need a 3.0 GPA and must start college the fall after graduating; college freshmen and sophomores working toward a bachelor's need a 2.75 GPA and must be 20 or younger on August 1, 2027.",
+    "opens": "Dec 1, 2026",
+    "deadline": "2027-02-05",
+    "confirmed": true,
+    "url": "https://www.jimmyranefoundation.org/scholarship-faqs",
+    "notes": "The application and all materials are due February 5, 2027; recommendations by February 10. The amount depends on need. Free to apply; run through ISTS."
+  },
+  {
+    "id": "nfb",
+    "name": "NFB Scholarship Program",
+    "sponsor": "National Federation of the Blind",
+    "amount": "$10,000",
+    "value": 10000,
+    "awards": "30",
+    "grades": [
+      "senior",
+      "college"
+    ],
+    "tags": [
+      "merit",
+      "leadership",
+      "service"
+    ],
+    "who": "Legally blind students in the 50 states, D.C. or Puerto Rico who will be in a full-time degree program at an accredited college in the fall. Judged on academics, community service and leadership; an interview with your state NFB affiliate president is required.",
+    "opens": "December 2026",
+    "deadline": "2027-03-31",
+    "confirmed": false,
+    "url": "https://nfb.org/programs-services/scholarships-and-awards/scholarship-program",
+    "notes": "The NFB says the 2027 application opens in December. The March 31 deadline is last cycle's moved forward a year. Finalists must attend the NFB national convention in July, where winners are announced."
+  },
+  {
+    "id": "ans-freshman",
+    "name": "ANS Incoming Freshman Scholarship",
+    "sponsor": "American Nuclear Society",
+    "amount": "$1,000",
+    "value": 1000,
+    "awards": "Up to 10",
+    "grades": [
+      "senior"
+    ],
+    "tags": [
+      "stem",
+      "essay"
+    ],
+    "min_gpa": 3.5,
+    "who": "Graduating high school seniors with better than a 3.5 GPA who will study a STEM field at a four-year college and are interested in nuclear science and technology. Needs a 500-word essay and two recommendations.",
+    "opens": "Not posted",
+    "deadline": "2027-04-01",
+    "confirmed": false,
+    "url": "https://www.ans.org/scholarships/freshman/",
+    "notes": "The ANS page gives an April 1 deadline without naming the year. Winners must join ANS as a student member once in college before the money is sent."
+  },
+  {
+    "id": "dpw-montana",
+    "name": "Horatio Alger Montana Undergraduate Scholarship",
+    "sponsor": "Dennis & Phyllis Washington Foundation and Horatio Alger Association",
+    "amount": "Up to $15,000 over four years",
+    "value": 15000,
+    "awards": "",
+    "grades": [
+      "senior"
+    ],
+    "tags": [
+      "need"
+    ],
+    "need": true,
+    "states": [
+      "MT"
+    ],
+    "who": "Full-time Montana high school seniors and U.S. citizens with critical financial need (Pell-eligible families are urged to apply) who have overcome adversity, take part in activities, and will start a bachelor's degree in the Montana University System (UM, MSU and their affiliated campuses) the fall after graduating.",
+    "opens": "Dec 1, 2026",
+    "deadline": "2027-02-15",
+    "confirmed": false,
+    "url": "https://www.dpwfoundation.org/scholarships/horatio-alger-montana-undergraduate-scholarship-program/",
+    "notes": "Apply through the Horatio Alger Association's application. The foundation's page gives a December 1 to February 15 window for seniors but still describes the class of 2026, so the 2027 dates are assumed. Recipients must keep a 2.0 GPA."
+  },
+  {
+    "id": "beta",
+    "name": "National Beta Scholarship",
+    "sponsor": "National Beta Club",
+    "amount": "$1,000 to $25,000",
+    "value": 25000,
+    "awards": "365 a year ($500,000 in total)",
+    "grades": [
+      "senior"
+    ],
+    "tags": [
+      "merit",
+      "leadership",
+      "service"
+    ],
+    "who": "Active 12th-grade senior members of the National Beta Club. You need your Beta membership ID (your sponsor has it), a transcript and ACT or SAT scores.",
+    "opens": "Nov 2, 2026",
+    "deadline": "2027-01-14",
+    "confirmed": true,
+    "url": "https://www.betaclub.org/scholarship-2/",
+    "notes": "Applications close at 11:59 p.m. Eastern on January 14, 2027. Most awards are $1,000; the top 15 range from $2,500 to $25,000."
+  },
+  {
+    "id": "deca",
+    "name": "DECA Scholarship Program",
+    "sponsor": "DECA",
+    "amount": "$1,000 to $2,500",
+    "value": 2500,
+    "awards": "Over $200,000 in total",
+    "grades": [
+      "freshman",
+      "sophomore",
+      "junior",
+      "senior"
+    ],
+    "tags": [
+      "merit",
+      "leadership"
+    ],
+    "who": "Current DECA members. All grade levels may apply unless a sponsor's award says otherwise; some awards target a career area such as hospitality or retail.",
+    "opens": "Open now",
+    "deadline": "2027-01-11",
+    "confirmed": true,
+    "url": "https://deca.org/scholarships",
+    "notes": "Everything is due January 11, 2027 (no preliminary round this year): transcript, three recommendations and a statement of interest. Merit-based. A few sponsor awards (such as Amazon Business) have their own April 1, 2027 deadline."
+  },
+  {
+    "id": "sons-of-italy",
+    "name": "Sons of Italy Foundation National Leadership Grants",
+    "sponsor": "Sons of Italy Foundation (OSDIA)",
+    "amount": "$5,000 to $20,000",
+    "value": 20000,
+    "awards": "10 to 18 a year",
+    "grades": [
+      "senior",
+      "college"
+    ],
+    "tags": [
+      "merit"
+    ],
+    "who": "U.S. citizens or green card holders with at least one Italian or Italian American parent or grandparent, enrolled or planning to enroll in an accredited undergraduate, graduate or professional program. Previous winners cannot apply.",
+    "opens": "Oct 5, 2026",
+    "deadline": "2027-02-27",
+    "confirmed": false,
+    "url": "https://scholarships.osdia.org/",
+    "notes": "The portal shows the cycle opening October 5, 2026 but still lists a February 27, 2026 closing date, so February 27, 2027 is assumed. Confirm with scholarships@osia.org."
+  },
+  {
+    "id": "arrl",
+    "name": "ARRL Foundation Scholarship Program",
+    "sponsor": "ARRL Foundation",
+    "amount": "$500 to $25,000",
+    "value": 25000,
+    "awards": "More than 150",
+    "grades": [
+      "senior",
+      "college"
+    ],
+    "tags": [
+      "stem"
+    ],
+    "min_gpa": 2.0,
+    "who": "Licensed amateur radio operators (an active FCC license; some awards accept foreign licenses) who are high school seniors, undergraduates or graduate students with at least a 2.0 GPA. One application covers all the foundation's scholarships; high school applicants upload the FAFSA if available.",
+    "opens": "Oct 30, 2026",
+    "deadline": null,
+    "confirmed": false,
+    "url": "https://www.arrl.org/scholarship-program",
+    "notes": "ARRL says the 2027 cycle is open, but the deadline was not readable on its site. Many awards are tied to a region or field of study."
   }
 ]
